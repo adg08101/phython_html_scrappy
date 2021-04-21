@@ -1,0 +1,76 @@
+1. ¿Dónde te gustaría vivir?
+2. ¿En qué lugar transcurrirían tus vacaciones perfectas?
+3. ¿Me puedes describir tu dormitorio?
+4. ¿A qué personaje histórico te gustaría entrevistar?
+5. ¿Qué tipo de ropa no llevarías puesta en ningún caso?
+6. ¿Cuáles son tus tres bandas de música favoritas?
+7. ¿Qué es para ti la libertad?
+8. ¿Cuál es el aspecto sobre ti que más te gusta?
+9. ¿Cuál es tu libro favorito?
+10. ¿Sueles pensar a menudo sobre lo que te ocurre y lo que sientes?
+11. ¿Qué superpoder tendrías?
+12. ¿Qué cuatro series son tus favoritas?
+13. ¿Qué tres cosas aprecias más en una persona?
+14. ¿Cómo te gustaría ser en un futuro?
+15. ¿Si fueses un animal, cuál serías?
+16. ¿Qué canción serviría para resumir tu personalidad? ¿Por qué?
+17. ¿Qué cuatro adjetivos te describen mejor?
+18. ¿Cuál es el estado de ánimo que menos te gusta?
+19. ¿Cómo te describirían tus amigos y amigas?
+20. ¿Qué tres tipos de oficio te gustaría ejercer?
+21. ¿Qué habilidad te gustaría perfeccionar para llegar a dominar totalmente?
+22. ¿Si sólo pudieras conservar cinco números de teléfono de gente ajena a tu familia, cuáles serían?
+23. ¿A qué tipo de persona le tendrías miedo?
+24. ¿Qué es lo más alocado que has hecho?
+25. ¿Cuál sería un buen título para tu autobiografía?
+26. ¿Qué es lo que la mayoría de la gente suele pensar de ti y no es cierto?
+27. ¿Qué te hubiera gustado empezar a aprender 5 años atrás?
+28. ¿Qué tipo de personas te parecen especialmente atractivas?
+29. ¿Qué características te gusta que estén presentes en otras personas pero no en ti?
+30. ¿Sobre qué tema te gustaría que te preguntaran para conocerte mejor?
+31. ¿Qué tipo de música te gusta bailar?
+32. ¿Si vieses a un perro cuya pata ha quedado atrapada en una verja, ¿qué harías? ¿Y si en vez de un perro fuese un lagarto?
+33. ¿En qué situaciones estarías dispuesto o dispuesta a mentir?
+34. ¿A qué le tienes un mayor miedo irracional?
+35. ¿De qué manera prefieres relacionarte con las personas?
+36. ¿Cómo definirías tu tipo de sentido del humor?
+37. ¿A qué sitio irías a relajarte durante unos días?
+38. Y... ¿A qué sitio irías a vivir una aventura?
+39. ¿Cuál es el recuerdo de tu infancia que tienes más vivo?
+40. ¿Cuándo te diste cuenta de que habías entrado en la adultez?
+41. ¿Qué es lo que echas más de menos de tu infancia?
+42. ¿Qué clase de personas son las que te dan más lástima?
+43. ¿Con qué tipo de personas te daría vergüenza que te vieran?
+44. ¿Qué 3 personas son las que más te inspiran?
+45. ¿Te consideras una persona supersticiosa?
+46. ¿Prefieres las historias cortas y simples o los argumentos enrevesados y complejos?
+47. ¿Te gusta saber lo que está pasando en lugres lejanos, o solo te interesa lo local?
+48. ¿Con qué personaje de ficción te identificas más?
+49. ¿De qué miembros de tu familia has aprendido más?
+50. ¿Qué miembro de tu familia es un mayor ejemplo para ti?
+51. ¿Tienes claro lo que buscas en la vida?
+52. ¿Con qué tipo de personas jamás te llevarías bien?
+53. ¿Con qué clase de persona te negarías a hablar?
+54. ¿Cuánto tiempo ha pasado desde que ocurrió algo de lo que te arrepientes profundamente?
+55. ¿Te haría sentir mal irte llevándote contigo muchos secretos?
+56. ¿Crees que eres una persona abierta a los cambios?
+57. ¿Te sientes amenazado o amenazada fácilmente?
+58. ¿Crees que la reputación es algo importante, para ti?
+59. ¿Es mejor defender causas por su legitimidad, o por la posibilidad de llevarlas a la práctica?
+60. ¿Te cuesta hablar sobre ti?
+61. ¿Cuál ha sido la mascota a la que has querido más?
+62. ¿Cuándo fue que gastaste más dinero en algo totalmente prescindible?
+63. Si no trabajaras en lo que trabajas actualmente, ¿a qué te hubiera gustado dedicarte?
+64. ¿Cuál es el primer recuerdo que tienes en tu vida?
+65. ¿Quién es tu referente en la vida?
+66. ¿Con qué dinero en el banco crees que decidirías retirarte?
+67. ¿Qué juguete de tu infancia te hizo más ilusión?
+68. ¿En qué época histórica te gustaría vivir si volvieras a nacer?
+69. ¿Cuál es tu juego de mesa favorito?
+70. ¿Prefieres ser el jefe o recibir órdenes y ejecutarlas?
+71. ¿Cuál crees que es el peor delito que has cometido en tu vida?
+72. ¿Cuál es tu rasgo de personalidad del cual te sientes más orgulloso/a?
+73. ¿Qué color crees que te define mejor?
+74. ¿Cuál crees que sería un regalo perfecto para mí?
+75. ¿Cuál es el deporte que se te da peor?
+76. ¿En qué temas crees que sabes más que el 95% de la gente?

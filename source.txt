@@ -1,0 +1,1237 @@
+
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="CJfsXPBK6oFlzL8VwocoTaroacQ2tVNDL2HFon7D"/>
+
+    <link rel="dns-prefetch" href="//fonts.googleapis.com/">
+    <link rel="dns-prefetch" href="//maps.googleapis.com/">
+    <link rel="stylesheet" type="text/css" href="/css/app.css?id=244e559dd9522c842b5b">
+    <link rel="alternate" type="application/atom+xml" title="Psicología y Mente - Atom" href="https://psicologiaymente.com/feeds/blog/atom"/>
+    <link rel="alternate" type="application/rss+xml" title="Psicología y Mente  - RSS" href="https://psicologiaymente.com/feeds/blog/rss"/>
+
+    <link rel="publisher" href="https://plus.google.com/+PsicologiaymenteNetpsy"/>
+    <meta property="article:publisher" content="https://www.facebook.com/psicologiaymente" />
+
+    <meta property="fb:admins" content="859019766"/>
+    <meta property="fb:admins" content="1531438395"/>
+
+    <title>76 preguntas para conocer mejor a una persona</title>
+<meta name="description" content="¿Quieres conocer mejor a alguien? Te proponemos 76 preguntas interesantes para romper el hielo y comunicarnos eficazmente con esa persona que deseamos conocer.">
+<meta name="keywords" content="Comunicación, Amistad, Pareja, Preguntas">
+<meta property="article:published_time" content="2015-10-25T10:06:00+00:00">
+<meta property="article:tag" content="Comunicación, Amistad, Pareja, Preguntas">
+<meta property="article:content_tier" content="free">
+<link rel="canonical" href="https://psicologiaymente.com/social/preguntas-conocer-mejor-persona"/>
+<meta property="og:title" content="76 preguntas para conocer mejor a una persona" />
+<meta property="og:description" content="¿Quieres conocer mejor a alguien? Te proponemos 76 preguntas interesantes para romper el hielo y comunicarnos eficazmente con esa persona que deseamos conocer." />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://psicologiaymente.com/social/preguntas-conocer-mejor-persona" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:image" content="https://pymstatic.com/659/conversions/preguntas-conocer-persona-social.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="article:published_time" content="2015-10-25T10:06:00+00:00" />
+<meta property="article:modified_time" content="2021-04-07T06:22:25+00:00" />
+<meta property="article:section" content="Psicología social y relaciones personales" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@psicologiamente" />
+<meta name="twitter:title" content="76 preguntas para conocer mejor a una persona" />
+<meta name="twitter:description" content="¿Quieres conocer mejor a alguien? Te proponemos 76 preguntas interesantes para romper el hielo y comunicarnos eficazmente con esa persona que deseamos conocer." />
+<meta name="twitter:image" content="https://pymstatic.com/659/conversions/preguntas-conocer-persona-social.jpg" />
+<meta name="twitter:creator" content="" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Psicología y Mente","description":"Psicología para profesionales, estudiantes y curiosos. Artículos diarios sobre salud mental, neurociencias, frases célebres y relaciones de pareja."}</script>
+
+    <script>
+window.dataLayer = window.dataLayer || [];
+dataLayer = [{"userId":null,"isLoggedIn":false,"isSubscribed":false,"routeName":"blog.posts.show"}];
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TNWG5DJ');</script>
+
+            <script async type="text/javascript" src="//clickio.mgr.consensu.org/t/consent_213878.js"></script>
+<script async id="__lxGc__rtr" type="text/javascript" src="//s.clickiocdn.com/t/213878/360.js"></script>
+<script async type='text/javascript' src='//s.clickiocdn.com/t/common_258.js'></script>
+<script async id="__clickio__safecontent__" data-sid="213878" type="text/javascript" src="//s.clickiocdn.com/t/safecontent.js"></script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+    window.lxpbjsdfp = [];
+    window.googletag = window.googletag || {};
+
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function () {
+      googletag.pubads().disableInitialLoad();
+    });
+
+    __lxG__ = window.__lxG__||{};
+    __lxG__.prevent_3p_refresh = 1;
+
+    window.__lxG__consent__ = window.__lxG__consent__ || {};
+
+    googletag.cmd.push(function () {
+            googletag.pubads().setTargeting('blog_category', 'social');
+        googletag.defineSlot('/61411284/pym_desktop_blog_post_billboard', [[970, 250], [970, 90], [468, 60], [728, 90]], 'div-gpt-ad-1527148810090-0').addService(googletag.pubads());
+            googletag.defineSlot('/61411284/pym_desktop_blog_post_before_content', [300, 250], 'div-gpt-ad-1537681571020-0').addService(googletag.pubads());
+            googletag.defineSlot('/61411284/pym_desktop_blog_post_middle_content', [[300, 250], [250, 250], [300, 300]], 'div-gpt-ad-1537676067566-0').addService(googletag.pubads());
+            googletag.defineSlot('/61411284/pym_desktop_blog_post_sidebar_top', [300, 250], 'div-gpt-ad-1537968365602-0').addService(googletag.pubads());
+            googletag.defineSlot('/61411284/pym_desktop_blog_post_sidebar_bottom_1', [[300, 600], [300, 300], [300, 250]], 'div-gpt-ad-1604424438147-0').addService(googletag.pubads());
+            googletag.defineSlot('/61411284/pym_desktop_blog_post_sidebar_bottom_2', [[300, 300], [300, 100], [300, 250]], 'div-gpt-ad-1604424759991-0').addService(googletag.pubads());
+            googletag.defineSlot('/61411284/pym_desktop_blog_post_sidebar_bottom_3', [[300, 250], [300, 300], [300, 600]], 'div-gpt-ad-1604424947544-0').addService(googletag.pubads());
+            googletag.defineSlot('/61411284/pym_destkop_blog_sidebar_professionals', [300, 300], 'div-gpt-ad-1540567686603-0').addService(googletag.pubads());
+
+
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+</script>
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+    <link rel="manifest" href="/manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#2F235B">
+<meta name="application-name" content="Psicolog&#xED;a y Mente">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Psicolog&#xED;a y Mente">
+<link rel="icon" type="image/png" sizes="228x228" href="/coast-228x228.png">
+<meta name="msapplication-TileColor" content="#2F235B">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="msapplication-config" content="/browserconfig.xml">
+<link rel="yandex-tableau-widget" href="/yandex-browser-manifest.json">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="/apple-touch-startup-image-320x460.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="/apple-touch-startup-image-640x920.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="/apple-touch-startup-image-640x1096.png">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/apple-touch-startup-image-750x1294.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)" href="/apple-touch-startup-image-1182x2208.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)" href="/apple-touch-startup-image-1242x2148.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="/apple-touch-startup-image-748x1024.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="/apple-touch-startup-image-768x1004.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="/apple-touch-startup-image-1496x2048.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="/apple-touch-startup-image-1536x2008.png">
+
+    <script>
+        window.app = {"env":"production","csrfToken":"CJfsXPBK6oFlzL8VwocoTaroacQ2tVNDL2HFon7D","user":null,"stripeKey":"pk_live_1Xt3LgDX957dxzEyus5Eq1Jh"};
+    </script>
+</head>
+<body class="">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNWG5DJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div id="app" itemprop="mainEntityOfPage" itemscope itemtype="https://schema.org/WebPage">
+
+            <header-nav v-cloak>
+    <header-menu
+        slot="menu"
+        :categories="[{&quot;id&quot;:1,&quot;name&quot;:&quot;Psicolog\u00eda&quot;,&quot;slug&quot;:&quot;psicologia&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/psicologia&quot;,&quot;childrens&quot;:[{&quot;id&quot;:2,&quot;parent_id&quot;:1,&quot;name&quot;:&quot;Psicolog\u00eda cl\u00ednica&quot;,&quot;slug&quot;:&quot;clinica&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/clinica&quot;},{&quot;id&quot;:3,&quot;parent_id&quot;:1,&quot;name&quot;:&quot;Psicolog\u00eda social y relaciones personales&quot;,&quot;slug&quot;:&quot;social&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/social&quot;},{&quot;id&quot;:7,&quot;parent_id&quot;:1,&quot;name&quot;:&quot;Cognici\u00f3n e inteligencia&quot;,&quot;slug&quot;:&quot;inteligencia&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/inteligencia&quot;},{&quot;id&quot;:6,&quot;parent_id&quot;:1,&quot;name&quot;:&quot;Personalidad&quot;,&quot;slug&quot;:&quot;personalidad&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/personalidad&quot;},{&quot;id&quot;:4,&quot;parent_id&quot;:1,&quot;name&quot;:&quot;Psicolog\u00eda educativa y del desarrollo&quot;,&quot;slug&quot;:&quot;desarrollo&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/desarrollo&quot;},{&quot;id&quot;:20,&quot;parent_id&quot;:1,&quot;name&quot;:&quot;Psicolog\u00eda forense y criminal\u00edstica&quot;,&quot;slug&quot;:&quot;forense&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/forense&quot;},{&quot;id&quot;:22,&quot;parent_id&quot;:1,&quot;name&quot;:&quot;Biograf\u00edas&quot;,&quot;slug&quot;:&quot;biografias&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/biografias&quot;},{&quot;id&quot;:24,&quot;parent_id&quot;:1,&quot;name&quot;:&quot;Cultura&quot;,&quot;slug&quot;:&quot;cultura&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/cultura&quot;}]},{&quot;id&quot;:9,&quot;name&quot;:&quot;Neurociencias&quot;,&quot;slug&quot;:&quot;neurociencias&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/neurociencias&quot;,&quot;childrens&quot;:[{&quot;id&quot;:18,&quot;parent_id&quot;:9,&quot;name&quot;:&quot;Drogas y adicciones&quot;,&quot;slug&quot;:&quot;drogas&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/drogas&quot;},{&quot;id&quot;:25,&quot;parent_id&quot;:9,&quot;name&quot;:&quot;Psicofarmacolog\u00eda&quot;,&quot;slug&quot;:&quot;psicofarmacologia&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/psicofarmacologia&quot;}]},{&quot;id&quot;:11,&quot;name&quot;:&quot;Vida saludable&quot;,&quot;slug&quot;:&quot;vida&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/vida&quot;,&quot;childrens&quot;:[{&quot;id&quot;:14,&quot;parent_id&quot;:11,&quot;name&quot;:&quot;Medicina y salud&quot;,&quot;slug&quot;:&quot;salud&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/salud&quot;},{&quot;id&quot;:5,&quot;parent_id&quot;:11,&quot;name&quot;:&quot;Deporte&quot;,&quot;slug&quot;:&quot;deporte&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/deporte&quot;},{&quot;id&quot;:13,&quot;parent_id&quot;:11,&quot;name&quot;:&quot;Nutrici\u00f3n&quot;,&quot;slug&quot;:&quot;nutricion&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/nutricion&quot;},{&quot;id&quot;:15,&quot;parent_id&quot;:11,&quot;name&quot;:&quot;Meditaci\u00f3n y Mindfulness&quot;,&quot;slug&quot;:&quot;meditacion&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/meditacion&quot;},{&quot;id&quot;:26,&quot;parent_id&quot;:11,&quot;name&quot;:&quot;Frases y reflexiones&quot;,&quot;slug&quot;:&quot;reflexiones&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/reflexiones&quot;},{&quot;id&quot;:10,&quot;parent_id&quot;:11,&quot;name&quot;:&quot;Miscel\u00e1nea&quot;,&quot;slug&quot;:&quot;miscelanea&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/miscelanea&quot;}]},{&quot;id&quot;:28,&quot;name&quot;:&quot;Pareja&quot;,&quot;slug&quot;:&quot;pareja&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/pareja&quot;,&quot;childrens&quot;:[{&quot;id&quot;:19,&quot;parent_id&quot;:28,&quot;name&quot;:&quot;Sexolog\u00eda&quot;,&quot;slug&quot;:&quot;sexologia&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/sexologia&quot;}]},{&quot;id&quot;:27,&quot;name&quot;:&quot;Empresas&quot;,&quot;slug&quot;:&quot;empresas&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/empresas&quot;,&quot;childrens&quot;:[{&quot;id&quot;:8,&quot;parent_id&quot;:27,&quot;name&quot;:&quot;Organizaciones, Recursos humanos y Marketing&quot;,&quot;slug&quot;:&quot;organizaciones&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/organizaciones&quot;},{&quot;id&quot;:30,&quot;parent_id&quot;:27,&quot;name&quot;:&quot;Coaching y liderazgo&quot;,&quot;slug&quot;:&quot;coach&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/coach&quot;},{&quot;id&quot;:17,&quot;parent_id&quot;:27,&quot;name&quot;:&quot;Psicolog\u00eda del consumidor&quot;,&quot;slug&quot;:&quot;consumidor&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/consumidor&quot;}]},{&quot;id&quot;:16,&quot;name&quot;:&quot;Entrevistas&quot;,&quot;slug&quot;:&quot;entrevistas&quot;,&quot;route&quot;:&quot;https:\/\/psicologiaymente.com\/entrevistas&quot;,&quot;childrens&quot;:[]}]"
+    ></header-menu>
+
+    <div slot="nav-account" class="main_nav-account">
+                    <div class="nav_access-module">
+                <button type="button" aria-label="Abrir menú de usuario" class="buttonicon small buttonicon--access">
+                    <svg class="icon">
+                        <use xlink:href="#user"></use>
+                    </svg>
+                </button>
+
+                <div class="nav_access-drop">
+                    <ul aria-label="Menú de usuario" class="nav_access-list">
+                        <li><a href="https://psicologiaymente.com/login" rel="nofollow" class="button small button--signin"><span class="label">Accede</span></a></li>
+                        <li><a href="https://psicologiaymente.com/register" rel="nofollow" class="button small button--register"><span class="label">Regístrate</span></a></li>
+                    </ul>
+                </div>
+            </div>
+
+            </div>
+
+            <post-read-progress slot="after"></post-read-progress>
+    </header-nav>
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "https://psicologiaymente.com",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://psicologiaymente.com/buscar?q={q}",
+      "query-input": "required name=q"
+    }
+}
+</script>
+
+    <main>
+    <section class="pro_search">
+        <div class="main-wrap">
+            <div class="main-col">
+                <div class="pro_search-container">
+                                            <div class="heading">
+                            <h3 class="tit">
+                                Encuentra tu psicólogo
+                                <span class="small">más cercano</span>
+                            </h3>
+                        </div>
+
+                    <div class="search">
+                        <professional-search-form
+                            action-route="https://psicologiaymente.com/profesionales/buscar"
+                            country="US"
+                            placeholder="p. ej. New York"
+                            default-value=""
+                        ></professional-search-form>
+                    </div>
+
+                                            <div class="login">
+                            <span class="lbl">¿Eres psicólogo?</span>
+                            <a href="https://psicologiaymente.com/profesionales/us">Date de alta</a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="article_top-banner">
+        <div class="main-wrap">
+            <div class="main-col">
+                <div class="banner-module">
+                    <p class="tit">Publicidad</p>
+                    <div class="banner leaderboard">
+                        <div class="visible-medium">
+
+        <div id='div-gpt-ad-1527148810090-0'>
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1527148810090-0'); });
+            </script>
+        </div>
+    </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="article-section" itemscope itemtype="http://schema.org/BlogPosting" itemref="schema-ref-organization app">
+        <div class="main-wrap">
+            <div class="main-col">
+                <div class="article-wrap">
+
+                    <article class="article-content_col">
+                        <header class="article-head">
+    <div class="extra">
+
+        <a itemprop="articleSection" href="https://psicologiaymente.com/social" class="chip chip--medium chip--category">Psicología social y relaciones personales</a>
+
+                    <a href="https://psicologiaymente.com/comite-editorial" class="chip chip--medium chip--reviewed">
+                <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="22" height="23" viewBox="0 0 22 23">
+  <path d="M11,20.6 L8.3,22.1 L6.6,19.6 L3.6,19.7 L3.3,16.7 L0.6,15.3 L1.7,12.5 L0,10 L2.3,8 L1.9,5 L4.8,4.3 L5.8,1.5 L8.7,2.3 L10.9,0.3 L13.1,2.3 L16,1.5 L17,4.3 L20.1,5 L19.7,8 L22,10 L20.2,12.5 L21.3,15.3 L18.6,16.7 L18.3,19.7 L15.3,19.6 L13.6,22.1 L11,20.6 Z M13.7,8.5 L9.8,12.1 L9.1,11.4 C8.6,10.9 7.7,10.9 7.1,11.4 C6.6,11.9 6.6,12.8 7.1,13.4 L8.9,15 C9.4,15.5 10.3,15.5 10.8,15 L15.6,10.5 C16.2,10 16.2,9.1 15.7,8.5 C15.2,8 14.3,7.9 13.7,8.5 Z"/>
+</svg>                <span class="lbl"><strong>Artículo revisado</strong> <small>por nuestro equipo editorial</small></span>
+            </a>
+
+            </div>
+
+    <h1 itemprop="headline" class="tit">76 preguntas para conocer mejor a una persona</h1>
+    <h3 itemprop="alternativeHeadline" class="stit">No vale ser típico. Cuando queremos descubrir a otra persona, debemos usar preguntas originales.</h3>
+
+
+    <meta itemprop="dateModified" content="2021-04-07T06:22:25+00:00"/>
+    <meta itemprop="datePublished" content="2015-10-25T10:06:00+00:00"/>
+    <meta itemprop="wordCount" content="4252"/>
+
+    <footer class="article-head--foot">
+        <a href="https://psicologiaymente.com/autores/arturo-torres" class="author author_link">
+          <avatar username="Arturo Torres" class="avatar--rounded avatar--small" src="https://pymstatic.com/44247/conversions/arturo-torres-small.jpg"></avatar>
+                        <meta itemprop="image" content="https://pymstatic.com/44247/conversions/arturo-torres-medium.jpg">
+
+          <span class="name">Arturo Torres</span>
+        </a>
+
+
+    </footer>
+
+    <post-share
+        :blog-post-id="589"
+        :is-bookmarked="false"
+        url="https://psicologiaymente.com/social/preguntas-conocer-mejor-persona"
+        title="76 preguntas para conocer mejor a una persona"
+        media="https://pymstatic.com/659/conversions/preguntas-conocer-persona-social.jpg"
+        :comments-count="1"
+    ></post-share>
+</header>
+
+                        <div class="article-body">
+                            <figure class="article-body__img" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+                                <div class="img">
+                                    <picture>
+                                        <source srcset="https://pymstatic.com/659/conversions/preguntas-conocer-persona-wide.jpg" media="(min-width: 769px)">
+                                        <img srcset="https://pymstatic.com/659/conversions/preguntas-conocer-persona-small-16_9.jpg" itemprop="url" alt="">
+                                    </picture>
+                                    <meta itemprop="width" content="620">
+                                    <meta itemprop="height" content="349">
+                                    <meta itemprop="thumbnail" content="https://pymstatic.com/659/conversions/preguntas-conocer-persona-thumb.jpg" />
+                                </div>
+                                <figcaption>
+
+                                                                    </figcaption>
+                            </figure>
+
+                            <blog-post-content
+                                itemprop="articleBody"
+                                class="article-body__txt "
+                            >
+
+                                <post-sticky-share
+                                    :blog-post-id="589"
+                                    :is-bookmarked="false"
+                                    url="https://psicologiaymente.com/social/preguntas-conocer-mejor-persona"
+                                    title="76 preguntas para conocer mejor a una persona"
+                                    media="https://pymstatic.com/659/conversions/preguntas-conocer-persona-wide.jpg"
+                                ></post-sticky-share>
+
+
+                                <div class="content">
+                                    <p>Los <strong>psicólogos</strong> disponen de gran cantidad de instrumentos para conocer mejor el estilo de comportamiento de las personas o su <a href="/personalidad/5-grandes-rasgos-de-personalidad">tipo de personalidad</a>.</p>
+<p>Sin embargo, eso no significa que las personas ajenas al estudio de la psicología no puedan tener otras maneras de conocer mejor a la gente que los rodea. De hecho, existe una opción relativamente asequible para llegar a saber más acerca de las personas que nos rodean. Se trata de las <strong>preguntas para conocer a una persona</strong>.</p>
+<ul>
+<li>Quizás te interese: &quot;<a href="/psicologia/principales-corrientes-psicologia">Las 7 principales corrientes de la Psicología</a>&quot;</li>
+</ul>
+<h2>Preguntas para conocer a alguien</h2>
+<p>Y es que un diálogo abierto entre dos personas puede servir a una gran cantidad de objetivos y funciones: el engaño, la cooperación, la divulgación de datos concretos y, claro está, también puede ser un contexto en el que entremos en contacto con la personalidad de nuestro interlocutor y creemos nuestras propias hipótesis acerca de él.</p>
+<p>Por eso, <strong>te propongo un total de 76 preguntas para conocer mejor a alguien</strong> y que puedes utilizar para crear un ambiente de confianza en poco tiempo.</p>
+<ul>
+<li>Artículo recomendado: <a href="/social/trucos-mas-sociable-divertido">&quot;10 trucos para ser más sociable y divertido&quot;</a>
+</li>
+</ul>
+<h2>Algunas preguntas para llegar a conocer mejor a una persona</h2>
+<p>Puede que utilizando estas preguntas nos ciñamos a la escrupulosidad y la exhaustividad de un psicólogo ejerciendo como tal, pero además de ver cómo reacciona la otra persona ante ciertas frases y preguntas, también <strong>nos ayudará a añadir un plus de interés a nuestras conversaciones y, en muchos casos, haremos que la otra persona se sincere y se abra más a nosotros</strong>.</p>
+<ul>
+<li>Te puede interesar: <a href="/inteligencia/inteligencia-interpersonal">&quot;Inteligencia interpersonal: definición y consejos para mejorarla&quot;</a>
+</li>
+</ul>
+<p>Es una lista que podría ampliarse hasta el infinito, ya que las preguntas para conocer mejor a alguien pueden ser tan diversas como amplia es la imaginación humana. Aquí te recomiendo unas cuantas, pero desde luego no hace falta usarlas todas, ya que pecarías de exceso si convirtieras el diálogo en un interrogatorio. Puedes usar las que elijas en el orden que quieras, aunque es recomendable dejar las más personales para el final. En cualquier caso, <strong>te recomiendo que disfrutes del proceso de conocer a la otra persona.</strong></p>
+<ul>
+<li>Lectura obligatoria: <a href="/social/guia-conocer-gente-nueva">&quot;Guía para conocer gente nueva: sitios, habilidades y consejos&quot;</a>
+</li>
+</ul>
+<h3>1. ¿Dónde te gustaría vivir?</h3>
+<p>Plantear este tema tan simple <strong>es una buena manera de conocer los gustos y prioridades de las personas</strong>. Puedes modificar esta pregunta para hacerla más concreta (&quot;En qué país te gustaría vivir, en qué ciudad, etcétera&quot;) y ver, de este modo, algunos aspectos de la vida que tu interlocutor o interlocutora valora más y algunas situaciones que no soporta.</p>
+<h3>2. ¿En qué lugar transcurrirían tus vacaciones perfectas?</h3>
+<p>Combinando esta pregunta con la anterior <strong>puedes ver si hay contrastes entre los aspectos del entorno ideal en el que vivir</strong> y las características que debe tener un lugar en el que sólo se está puntualmente, de paso. Conocer mejor a alguien implica no sólo saber qué le pide esa persona a la rutina, sino también cómo le gusta romperla.</p>
+<h3>3. ¿Me puedes describir tu dormitorio?</h3>
+<p>El dormitorio <strong>es una de las habitaciones del hogar más privadas y en la que se pasa más horas</strong>. Por eso, suele reflejar muchos aspectos de los gustos y la personalidad de la gente. Por ejemplo, te puedes hacer una idea sobre si valora más o menos su privacidad según las barreras que existan entre el interior del dormitorio y lugares comunes, o puedes conocer las preferencias y hobbies según la decoración y objetos que pueblen el espacio.</p>
+<h3>4. ¿A qué personaje histórico te gustaría entrevistar?</h3>
+<p>Esta pregunta es útil para conocer mejor las <strong>inquietudes filosóficas</strong> de la persona, sus intereses e incluso su bagaje cultural.</p>
+<h3>5. ¿Qué tipo de ropa no llevarías puesta en ningún caso?</h3>
+<p>Esta pregunta sirve, entre otras cosas, <strong>para poner a prueba la capacidad de inventiva y la creatividad de la otra persona</strong>, ya que las posibles respuestas son prácticamente infinitas. Además, es una pregunta que supone un reto y a la vez es desenfadada, lo cual añade interés a la conversación y sirve para descargar tensiones.</p>
+<h3>6. ¿Cuáles son tus tres bandas de música favoritas?</h3>
+<p>Existen algunos estudios que señalan que <strong>los gustos musicales son importantes en la creación de grupos de amigos, especialmente cuanto más jóvenes son sus integrantes</strong>. Esta pregunta sirve para conocer mejor a la otra persona y saber acerca de sus preferencias en un tema que es difícil tratar desde la racionalidad y los argumentos sólidos. Por otro lado, es más difícil de responder que &quot;¿Qué tipo de música escuchas?&quot;, de modo que te asegurarás en mayor medida que la otra persona está pendiente del diálogo.</p>
+<h3>7. ¿Qué es para ti la libertad?</h3>
+<p>Mediante esta pregunta <strong>verás la habilidad de la otra persona a la hora de tratar temas abstractos</strong>, no tan conectados con el día a día. Por otro lado, si tiene dificultades para responderla o parece sorprenderse por esta pregunta, es posible que esta persona no esté acostumbrada a tocar de cerca <a href="/tags/filosofia">temas filosóficos</a>.</p>
+<h3>8. ¿Cuál es el aspecto sobre ti que más te gusta?</h3>
+<p>Las posibles respuestas a esta pregunta son tan diversas como variado es el tipo de información sobre la otra persona que puedes obtener con ella. Es una manera de <strong>entrever cómo se valora a sí mismo el interlocutor</strong>, si presta más o menos atención a sus atributos físicos o psicológicos y, de paso, puedes conocer de primera mano aspectos que desconocías sobre su manera de ser o de sus capacidades mentales.</p>
+<h3>9. ¿Cuál es tu libro favorito?</h3>
+<p>Otra pregunta para hacerse una idea sobre el bagaje cultural del prójimo y, de paso, <strong>conocer sus gustos literarios</strong>, algo que nunca está de más. También sabrás si acostumbra a leer más o menos habitualmente.</p>
+<h3>10. ¿Sueles pensar a menudo sobre lo que te ocurre y lo que sientes?</h3>
+<p>Planteando este tema <strong>sabrás si esta persona dedica más o menos tiempo</strong> a <a href="/clinica/tecnicas-de-control-emocional">gestionar sus emociones</a> y a distanciarse de lo que le pasa para analizarlo fríamente. Tener este hábito suele estar asociado a una menor impulsividad y a la costumbre de pensar en las consecuencias de las cosas antes de hacerlas.</p>
+<h3>11. ¿Qué superpoder tendrías?</h3>
+<p>Otra pregunta desenfadada <strong>para aliviar tensiones y crear un ambiente distendido entre tanta pregunta</strong> y, además, ejercer un poco la <a href="/inteligencia/creatividad-todos-genios">creatividad</a>.</p>
+<h3>12. ¿Qué cuatro series son tus favoritas?</h3>
+<p>Esta es otra de esas preguntas para conocer mejor a alguien a través del tipo de productos culturales que consume. La respuesta a esta pregunta en sí no es lo interesante, <strong>sino los aspectos de estas series que la persona dice valorar más, así como los personajes en los que parece sentirse más identificada</strong> y los motivos de ello.</p>
+<ul>
+<li>Por cierto: no te pierdas este post:  <a href="/cultura/series-psicologicas-tv">&quot;Series psicológicas: 10 series de TV que todo psicólogo debería ver&quot;</a>
+</li>
+</ul>
+<h3>13. ¿Qué tres cosas aprecias más en una persona?</h3>
+<p>Es mejor no empezar planteando esta pregunta, ya que es bastante personal. Te puede servir para <strong>conocer los valores que aprecia más el interlocutor</strong>.</p>
+<h3>14. ¿Cómo te gustaría ser en un futuro?</h3>
+<p>Esta es una de esas preguntas para conocer mejor a alguien que te servirá para sabe de las aspiraciones de esta persona, así como algunos aspectos de su  <a href="/psicologia/autoconcepto">autoconcepto</a>.</p>
+<h3>15. ¿Si fueses un animal, cuál serías?</h3>
+<p>Otra pregunta <strong>para saber acerca de la autoimagen de tu interlocutor</strong>, las características propias que considera más relevantes y las que no lo son tanto.</p>
+<h3>16. ¿Qué canción serviría para resumir tu personalidad? ¿Por qué?</h3>
+<p>La esencia de una persona resumida con una pieza musical. Una tarea difícil, pero no imposible, y que <strong>puede servir para expresar ciertas cualidades y aspectos propios a través de la música</strong>, algo que difícilmente puede ser abarcado con categorías conceptuales.</p>
+<h3>17. ¿Qué cuatro adjetivos te describen mejor?</h3>
+<p>Como otras preguntas que ya han salido, <strong>esta sirve para hacerse una idea sobre cómo se ve a sí misma la otra persona</strong> y, de paso, conocer las características propias que considera más relevantes o inusuales.</p>
+<h3>18. ¿Cuál es el estado de ánimo que menos te gusta?</h3>
+<p>Esta simple pregunta puede servir para <strong>conocer ciertas manías, inquietudes o situaciones</strong> que la otra persona suele trata de evitar. Muy útil ya que, en vez de hablarse de situaciones concretas, se habla sobre los estados de ánimo que desencadenan, estados subjetivos de conciencia que pueden ocurrir en contextos muy diversos.</p>
+<h3>19. ¿Cómo te describirían tus amigos y amigas?</h3>
+<p>Si otras preguntas serían para saber cómo se ve a sí misma esta persona, <strong>esta sirve para saber cómo cree que la ven</strong>. El hecho de preguntar por sus amistades puede hacer que sus respuestas estén sesgadas hacia lo positivo, pero a cambio refuerzas el ambiente de confianza.</p>
+<h3>20. ¿Qué tres tipos de oficio te gustaría ejercer?</h3>
+<p>Con esta pregunta se puede <strong>conocer algo más el tipo de esfuerzos y retos hacia los que se orientan los gustos de la otra persona</strong>. Del mismo modo, puede servir para hacerse una idea acerca de si se le dan mejor las tareas regidas por pautas de comportamiento fijas o aquellas que dejan mayor margen a la creatividad, o aquellas que conllevan trabajo en equipo o solitario.</p>
+<h3>21. ¿Qué habilidad te gustaría perfeccionar para llegar a dominar totalmente?</h3>
+<p>Sirve para saber más acerca de los gustos de esta persona y, por otro lado, <strong>el tipo de retos y proyectos que le gustaría emprender</strong>.</p>
+<h3>22. ¿Si sólo pudieras conservar cinco números de teléfono de gente ajena a tu familia, cuáles serían?</h3>
+<p>Es <strong>una manera indirecta de saber más acerca del círculo más cercano a esta persona</strong>. Puede servir para saber si conserva amistades relativamente antiguas o tiende a perder el contacto con las personas y crear nuevas amistades constantemente.</p>
+<h3>23. ¿A qué tipo de persona le tendrías miedo?</h3>
+<p>Nada como esta pregunta para saber <strong>el tipo de actitudes y personalidades que tu interlocutor tiende a evitar en las personas con las que se relaciona</strong>.</p>
+<h3>24. ¿Qué es lo más alocado que has hecho?</h3>
+<p>Un clásico, aunque no por ello menos útil. Sirve para saber en qué medida los límites que enmarcan el comportamiento correcto están más o menos presentes en la persona que habla contigo.</p>
+<h3>25. ¿Cuál sería un buen título para tu autobiografía?</h3>
+<p>Por supuesto, lo interesante del hecho de formular esta pregunta no es el título que se le ocurra al interlocutor, sino la conversación que surge a partir de la respuesta. A partir de este tema tan simple se puede emprender una conversación en la que conozcamos mejor a la otra persona a partir del modo en el que explica <strong>su visión acerca de su propia vida</strong>, los hitos que lo marcaron en el pasado, etc.</p>
+<h3>26. ¿Qué es lo que la mayoría de la gente suele pensar de ti y no es cierto?</h3>
+<p>Esta es una de las mejores preguntas para conocer a una persona, porque da pie a que el interlocutor o interlocutora hable sobre sus características que considera más desconocidas y ponga ejemplos que ayuden a <strong>entender su punto de vista</strong>.</p>
+<h3>27. ¿Qué te hubiera gustado empezar a aprender 5 años atrás?</h3>
+<p>Esta pregunta sirve para hacerse una idea sobre los proyectos vitales que la otra persona valora en el presente. A la vez, ayuda a entender cuáles eran las prioridades y objetivos que tenía esa misma persona en el pasado.</p>
+<h3>28. ¿Qué tipo de personas te parecen especialmente atractivas?</h3>
+<p>Si matizamos esta pregunta aclarando que no nos referimos a algo relacionado con la <a href="/pareja/senales-demuestran-atraccion-fisica">atracción física</a>, conseguiremos recrear una imagen aproximada sobre las <strong>características personales que se valoran más</strong>.</p>
+<h3>29. ¿Qué características te gusta que estén presentes en otras personas pero no en ti?</h3>
+<p>Hay una diferencia entre <strong>el ideal al que aspira una persona</strong> y las características que se valoran mucho en otra gente. Esta es una pregunta para conocer a la persona explorando justamente esta diferencia.</p>
+<h3>30. ¿Sobre qué tema te gustaría que te preguntaran para conocerte mejor?</h3>
+<p>La autoimagen y la <a href="/tags/autoestima">autoestima</a> salen a relucir una vez más, como en otras preguntas para conocer mejor a alguien. Lo más probable es que tu interlocutor saque <strong>temas que entiende que realzan los aspectos positivos de su persona</strong>.</p>
+<h3>31. ¿Qué tipo de música te gusta bailar?</h3>
+<p><strong>El tipo de baile que más gusta a una persona puede darnos una idea de su grado de introversión o extraversión</strong>. Las personas que sientan debilidad por tipos de baile que se realizan en pareja o en grupo tendrán una mayor propensión a ser extravertidas, mientras que las introvertidas o dudarán ante la pregunta (al no estar acostumbradas a bailar) o responderán géneros musicales que no están relacionados con formas de bailar muy complejas, como el rock.</p>
+<h3>32. ¿Si vieses a un perro cuya pata ha quedado atrapada en una verja, ¿qué harías? ¿Y si en vez de un perro fuese un lagarto?</h3>
+<p>Esta doble pregunta <strong>sirve para conocer la actitud de esta persona hacia los animales, sean o no domésticos</strong>. La parte en la que se nombra al lagarto hace de esta una de las mejores preguntas para conocer a alguien en lo relativo a sus vínculos de apego con formas de vida muy diferentes a la humana.</p>
+<h3>33. ¿En qué situaciones estarías dispuesto o dispuesta a mentir?</h3>
+<p>Una pregunta para tantear el grado de honestidad que es habitual en la persona con la que estamos hablando. Aunque cualquiera tratará de dar una imagen de sí mismo mejor de la que se corresponde con la realidad, <strong>las respuestas a esta cuestión permiten comparar entre personas</strong>.</p>
+<h3>34. ¿A qué le tienes un mayor miedo irracional?</h3>
+<p>Con esta pregunta <strong>se puede explorar las obsesiones y los miedos de la otra persona</strong>. Es interesante pararse a pensar si la respuesta o las respuestas que da tiene que ver con cosas materiales, como un tipo de animal o una situación concreta, o con fenómenos más abstractos y generales, como la incomprensión, el abuso de las nuevas tecnologías o los vacíos existenciales.</p>
+<h3>35. ¿De qué manera prefieres relacionarte con las personas?</h3>
+<p>Esta es una pregunta muy abierta que permite explorar cuáles son las situaciones en la que el interlocutor o interlocutora prefiere interactuar con otros: en quedadas grupales o de dos personas, por Internet, etc.</p>
+<h3>36. ¿Cómo definirías tu tipo de sentido del humor?</h3>
+<p>El humor es uno de las características más importantes del ser humano, pero no siempre se expresa del mismo modo. Existe el humor negro, el humor absurdo, el <em>slapstick</em>... diferentes maneras de experimentar la risa. <strong>Una pregunta para conocer a alguien por vía de su sentido del humor (o ausencia de él)</strong>.</p>
+<h3>37. ¿A qué sitio irías a relajarte durante unos días?</h3>
+<p>Esta pregunta sirve para conocer la idea de calma que tiene la persona que habla con nosotros.</p>
+<h3>38. Y... ¿A qué sitio irías a vivir una aventura?</h3>
+<p>La pregunta opuesta a la anterior, <strong>para saber qué tipo de experiencias excitantes atraen más la atención del interlocutor</strong> o interlocutora.</p>
+<h3>39. ¿Cuál es el recuerdo de tu infancia que tienes más vivo?</h3>
+<p>Esta pregunta no tiene por qué darnos una información especialmente valiosa acerca de la personalidad de quien haba con nosotros (a no ser que hable de una experiencia traumática), pero <strong>sí puede servir para crear un ambiente distendido en el que poder preguntar más cosas</strong> y, de paso, para conocer cosas acerca del entorno en el que se educó.</p>
+<h3>40. ¿Cuándo te diste cuenta de que habías entrado en la adultez?</h3>
+<p>Una manera de conocer la concepción de lo infantil y lo adulto que tiene la otra persona. ¿Tiene una mentalidad infantil o ha madurado más de lo que sería aconsejable?</p>
+<h3>41. ¿Qué es lo que echas más de menos de tu infancia?</h3>
+<p>Otra pregunta para conocer el lado más infantil e inocente de la otra persona (si es que lo tiene).</p>
+<h3>42. ¿Qué clase de personas son las que te dan más lástima?</h3>
+<p><strong>Una manera de explorar los límites de la empatía</strong> de quien habla con nosotros, aunque hay que saber reconocer cuándo se está dando una respuesta sincera y cuándo se responde de manera irónica para no tener que revelar este tipo de información.</p>
+<h3>43. ¿Con qué tipo de personas te daría vergüenza que te vieran?</h3>
+<p>Una pregunta para conocer la imagen que alguien quiere dar de sí misma, más allá del modo en el que se ve ella misma. <strong>Ayuda a saber hasta qué punto hay vanidad en ella</strong>.</p>
+<h3>44. ¿Qué 3 personas son las que más te inspiran?</h3>
+<p>Esta pregunta no solo permite conocer las inquietudes y las sensibilidades de alguien, sino también sus conocimientos históricos, lo cual nunca está de más.</p>
+<h3>45. ¿Te consideras una persona supersticiosa?</h3>
+<p><strong>Conocer a alguien es también saber cosas acerca de su manera de pensar</strong>, y creer en fenómenos paranormales es algo que habla sobre el modo en el que uno concibe la realidad y piensa en el modo en el que funciona la naturaleza.</p>
+<h3>46. ¿Prefieres las historias cortas y simples o los argumentos enrevesados y complejos?</h3>
+<p>Siempre se puede responder que ambos, pero de algún modo ayuda a saber el tipo de historias y narrativas que más llaman la atención de alguien.</p>
+<h3>47. ¿Te gusta saber lo que está pasando en lugres lejanos, o solo te interesa lo local?</h3>
+<p>Una manera de tantear las inquietudes y las ansias de información de la otra persona. Tal vez podamos conocer más sobre su visión del mundo.</p>
+<h3>48. ¿Con qué personaje de ficción te identificas más?</h3>
+<p>Una manera de dejar abierta la posibilidad de que el interlocutor o interlocutora hable acerca de su personalidad y sus conocimientos sobre obras de ficción.</p>
+<h3>49. ¿De qué miembros de tu familia has aprendido más?</h3>
+<p>Una de esas preguntas para conocer a alguien dentro de su contexto familiar y, de paso, sus conocimientos, competencias y habilidades.</p>
+<h3>50. ¿Qué miembro de tu familia es un mayor ejemplo para ti?</h3>
+<p>Una pregunta similar a la anterior, aunque en este caso se habla de una faceta de la educación distinta: el <em>role model</em> que se sigue.</p>
+<h3>51. ¿Tienes claro lo que buscas en la vida?</h3>
+<p>Para conocer el grado de estructuración de la vida de la otra persona.</p>
+<h3>52. ¿Con qué tipo de personas jamás te llevarías bien?</h3>
+<p>En ocasiones, hay actividades o formas de personalidad que producen un rechazo importante.</p>
+<h3>53. ¿Con qué clase de persona te negarías a hablar?</h3>
+<p>Para saber <strong>hasta dónde llegan los límites de la identificación y la empatía</strong>.</p>
+<h3>54. ¿Cuánto tiempo ha pasado desde que ocurrió algo de lo que te arrepientes profundamente?</h3>
+<p>Esta pregunta de la ocasión de hablar sobre arrepentimientos y mala gestión de las situaciones.</p>
+<h3>55. ¿Te haría sentir mal irte llevándote contigo muchos secretos?</h3>
+<p>Esta es una de las preguntas para conocer a una persona que se centran en un aspecto existencial.</p>
+<h3>56. ¿Crees que eres una persona abierta a los cambios?</h3>
+<p>Para saber el grado de aprecio que la persona siente por la rutina y lo familiar.</p>
+<h3>57. ¿Te sientes amenazado o amenazada fácilmente?</h3>
+<p>Hay quien a la mínima se siente atacado o cuestionado.</p>
+<h3>58. ¿Crees que la reputación es algo importante, para ti?</h3>
+<p>Una manera de saber si le importa mucho la imagen que da.</p>
+<h3>59. ¿Es mejor defender causas por su legitimidad, o por la posibilidad de llevarlas a la práctica?</h3>
+<p>En este caso, <strong>exploramos la tendencia hacia el idealismo</strong> que tiene nuestro interlocutor o interlocutora.</p>
+<h3>60. ¿Te cuesta hablar sobre ti?</h3>
+<p>Esta pregunta sirve para conocer hasta qué punto la otra persona está a la defensiva.</p>
+<h3>61. ¿Cuál ha sido la mascota a la que has querido más?</h3>
+<p>Las mascotas nos conectan con nuestro niño interior.</p>
+<h3>62. ¿Cuándo fue que gastaste más dinero en algo totalmente prescindible?</h3>
+<p>Todos hemos sido objeto de un momento en que hemos gastado fondos sin que hubiera una necesidad imperiosa.</p>
+<h3>63. Si no trabajaras en lo que trabajas actualmente, ¿a qué te hubiera gustado dedicarte?</h3>
+<p>Para descubrir pasiones secretas de tus amigos.</p>
+<h3>64. ¿Cuál es el primer recuerdo que tienes en tu vida?</h3>
+<p>Es difícil acordarse de eventos que sucedieron antes de los 5-6 años, pero haciendo memoria es probable que rescates algún momento especial de tu niñez.</p>
+<h3>65. ¿Quién es tu referente en la vida?</h3>
+<p>Normalmente se suele aludir a los padres o a algún ídolo deportivo, aunque igual la respuesta te sorprenda.</p>
+<h3>66. ¿Con qué dinero en el banco crees que decidirías retirarte?</h3>
+<p>Algunas personas seguirían trabajando a pesar de poseer una gran cifra, mientras que otros decidirían tumbarse a la bartola si tienen su vida garantizada.</p>
+<h3>67. ¿Qué juguete de tu infancia te hizo más ilusión?</h3>
+<p>Un peluche, un ordenador, una bicicleta... Con esta pregunta podemos saber más sobre la niñez de la otra persona.</p>
+<h3>68. ¿En qué época histórica te gustaría vivir si volvieras a nacer?</h3>
+<p>Una pregunta que nos puede dar pistas sobre su personalidad.</p>
+<h3>69. ¿Cuál es tu juego de mesa favorito?</h3>
+<p>Todos hemos tenido una o varias épocas de jugar compulsivamente al Scrabble, al Monopoly, al Cluedo...</p>
+<h3>70. ¿Prefieres ser el jefe o recibir órdenes y ejecutarlas?</h3>
+<p>Dos formas de entender la vida y de participar en negocios y empresas.</p>
+<h3>71. ¿Cuál crees que es el peor delito que has cometido en tu vida?</h3>
+<p>Todos hemos cometido alguna ilegalidad, ni que sea a la hora de incumplir alguna señal de tráfico.</p>
+<h3>72. ¿Cuál es tu rasgo de personalidad del cual te sientes más orgulloso/a?</h3>
+<p>No solo descubrirás cómo es esa persona, sino aquello que valora más sobre sí misma.</p>
+<h3>73. ¿Qué color crees que te define mejor?</h3>
+<p>No solo sabremos cómo se autopercibe, sino qué características asocia al color elegido.</p>
+<h3>74. ¿Cuál crees que sería un regalo perfecto para mí?</h3>
+<p>Una forma de conocer qué cree que nos hace falta o que nos haría ilusión.</p>
+<h3>75. ¿Cuál es el deporte que se te da peor?</h3>
+<p>Casi todos somos especialmente patosos en alguna modalidad deportiva.</p>
+<h3>76. ¿En qué temas crees que sabes más que el 95% de la gente?</h3>
+<p>Todos somos expertos en algún tema, aunque sean tonterías y no sirvan para demasiado.</p>
+<h2>Más preguntas interesantes</h2>
+<p>Hasta aquí la selección de preguntas para conocer mejor al prójimo. <strong>Si se te ocurren más, puedes dejarlas en la sección de comentarios</strong>, ya que como he dicho el listado podría ser prácticamente infinito y seguro que hay propuestas interesantes que han quedado fuera.</p>
+<ul>
+<li>Otro artículo que te recomendamos encarecidamente <a href="/pareja/preguntas-intimas-conocer-pareja">&quot;55 preguntas íntimas para conocer mejor a tu pareja&quot;</a>
+</li>
+</ul>
+<h2>Meyo: una app para conocer y que te conozcan mejor</h2>
+<figure class="image-left"><img src="https://pymstatic.com/64379/conversions/logo-meyo-default.jpg" alt="Logo Meyo"></figure>
+<p><strong>¿Sabías que tu smartphone puede ser la mejor herramienta para mejorar tus relaciones personales?</strong> Y no hablamos a nivel virtual. Hablamos de la realidad. Y es que con este propósito ha nacido Meyo, una app que busca que te conviertas en la mejor versión de ti mismo, que hagas más fuertes tus relaciones personales y que conozcas a los demás (y que ellos te conozcan a ti) como nunca antes lo habías hecho.</p>
+<p>Meyo llega para ayudarte a crecer como persona y potenciar todas las virtudes útiles para abrirte y conseguir que los demás se abran cuando están contigo. La app ofrece retos, consejos, vídeos, juegos, estrategias y cualquier contenido audiovisual que, en función de qué aspecto de tu personalidad quieres potenciar, vaya ayudarte a establecer vínculos personales más fuertes. Ser más optimista, aprender a escuchar, expresarte mejor, tener más sentido del humor, ser más empático, mostrarte cercano, trabajar la comunicación no verbal… <strong>Meyo puede ayudarte en todo</strong>.</p>
+<p>Y es que además de darte estas herramientas, te ayuda a cuidar tu salud física y mental para que tengas mayor vitalidad y te sientas más feliz con todo lo que te rodea. Algo que detectarán en seguida los demás y hará que quieran abrirse contigo. Dietas personalizadas, rutinas de deporte, consejos para dormir mejor, estrategias para superar el estrés y la ansiedad, formas de mejorar tus dotes comunicativas, entre muchas otras prestaciones.</p>
+<p>Así que muy atentos a su lanzamiento (gratuito) el 20 de marzo de 2020. Y es que Meyo está llamada a revolucionar por completo el mercado de las apps.</p>
+<ul>
+<li>Te puedes descargar Meyo para <a href="https://play.google.com/store/apps/details?id=com.aboueats.meyo">Android</a> y para <a href="https://apple.co/3bfcOvr">iOs</a>.</li>
+</ul>
+
+                                </div>
+
+
+                                <div name="ads-before-content" id='div-gpt-ad-1537681571020-0' class="visible-medium banner medium_rectangle">
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1537681571020-0'); });
+        </script>
+    </div>
+
+                                <div name="ads-middle-content" id='div-gpt-ad-1537676067566-0' class="visible-medium banner medium_rectangle">
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1537676067566-0'); });
+        </script>
+    </div>
+
+                                                            </blog-post-content>
+                        </div>
+
+                        <footer class="article-foot">
+    <div class="tags-module">
+        <p class="lbl">Tópicos</p>
+
+        <ul class="list list-tags">
+                            <li>
+                    <a href="https://psicologiaymente.com/tags/comunicacion" class="tag">Comunicación</a>
+                </li>
+                            <li>
+                    <a href="https://psicologiaymente.com/tags/amistad" class="tag">Amistad</a>
+                </li>
+                            <li>
+                    <a href="https://psicologiaymente.com/tags/pareja" class="tag">Pareja</a>
+                </li>
+                            <li>
+                    <a href="https://psicologiaymente.com/tags/preguntas" class="tag">Preguntas</a>
+                </li>
+                    </ul>
+
+        <meta itemprop="keywords" content="Comunicación,Amistad,Pareja,Preguntas">
+    </div>
+
+    <div itemprop="author" itemscope itemtype="http://schema.org/Person" class="author_profile">
+            <header class="author_profile-head author_profile-head--x">
+    <div class="author_profile-heading">
+        <div class="img">
+            <a href="https://psicologiaymente.com/autores/arturo-torres">
+                <avatar username="Arturo Torres" class="avatar--large" src="https://pymstatic.com/44247/conversions/arturo-torres-small.jpg"></avatar>
+                                    <meta itemprop="image" content="https://pymstatic.com/44247/conversions/arturo-torres-medium.jpg">
+                            </a>
+        </div>
+
+        <div class="txt">
+            <h3 class="tit">
+                <a href="https://psicologiaymente.com/autores/arturo-torres" title="Perfil de Arturo Torres en Psicología y Mente">Arturo Torres</a>
+                <meta itemprop="name" content="Arturo Torres">
+                <meta itemprop="givenName" content="Arturo">
+                <meta itemprop="familyName" content="Torres">
+            </h3>
+            <h4 itemprop="jobTitle" class="stit">Psicólogo</h4>
+        </div>
+    </div>
+</header>
+
+    <div class="author_profile-body">
+        <div itemprop="description" class="desc"><p>Licenciado en Sociología por la Universitat Autónoma de Barcelona. Graduado en Psicología por la Universitat de Barcelona. Posgrado en comunicación política y Máster en Psicología social.</p>
+</div>
+
+        <ul class="list list-follow">
+
+
+
+
+                    </ul>
+    </div>
+</div>
+
+    <div class="banner banner-directory_foot-module">
+        <div class="banner-brochure banner-brochure--inline">
+    <div class="banner-brochure-wrap">
+        <div class="banner-brochure-cell banner-brochure-cell--img">
+            <div class="img_wrap">
+                <picture>
+                    <source srcset="/img/banner-directory_foot.jpg" media="(min-width: 769px)">
+                    <img srcset="/img/banner-directory_foot.jpg" alt="">
+                </picture>
+            </div>
+        </div>
+
+        <div class="banner-brochure-cell banner-brochure-cell--txt">
+            <p class="stit">¿Eres psicólogo/a?</p>
+            <h3 class="tit">Date de alta en nuestro directorio de profesionales</h3>
+
+            <div class="foot">
+                                    <a href="https://psicologiaymente.com/profesionales/us" class="button medium secondary fill">
+                        <span class="label">Date de alta</span>
+                    </a>
+                            </div>
+        </div>
+    </div>
+</div>    </div>
+</footer>
+                    </article>
+
+                    <aside class="article_aside-col">
+                        <ul class="rail-wrap">
+                            <li class="rail-cell rail-cell--heading">
+                                <div class="rail-wagon">
+                                    <div class="rail-unit visible-large">
+                                        <div class="banner-module visible-large">
+        <p class="tit">Publicidad</p>
+
+        <div id='div-gpt-ad-1537968365602-0' style='height:250px; width:300px;'>
+            <script>
+              googletag.cmd.push(function() { googletag.display('div-gpt-ad-1537968365602-0'); });
+            </script>
+        </div>
+    </div>
+                                    </div>
+                                    <div class="rail-unit">
+
+                                        <!-- /61411284/pym_destkop_blog_sidebar_professionals -->
+    <div id='div-gpt-ad-1540567686603-0'>
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1540567686603-0'); });
+        </script>
+    </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="rail-cell rail-cell--grow visible-large">
+                                <ul class="rail-wrap">
+                                    <li class="rail-cell rail-cell--grow">
+                                        <div class="rail-unit rail-wagon">
+                                            <div class="banner halfpage visible-large">
+        <!-- /61411284/pym_desktop_blog_post_sidebar_bottom_1 -->
+        <div id='div-gpt-ad-1604424438147-0'>
+            <script>
+              googletag.cmd.push(function() { googletag.display('div-gpt-ad-1604424438147-0'); });
+            </script>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+                                        </div>
+                                    </li>
+
+                                    <li class="rail-cell rail-cell--grow rail-cell--limit_600">
+                                        <div class="rail-unit rail-wagon">
+                                            <div class="banner-module">
+        <!-- /61411284/pym_desktop_blog_post_sidebar_bottom_2 -->
+        <div id='div-gpt-ad-1604424759991-0'>
+            <script>
+              googletag.cmd.push(function() { googletag.display('div-gpt-ad-1604424759991-0'); });
+            </script>
+        </div>
+    </div>
+                                        </div>
+                                    </li>
+
+                                    <li class="rail-cell rail-cell--grow">
+                                        <div class="rail-unit rail-wagon">
+                                            <div class="banner halfpage visible-large">
+        <!-- /61411284/pym_desktop_blog_post_sidebar_bottom_3 -->
+        <div id='div-gpt-ad-1604424947544-0'>
+            <script>
+              googletag.cmd.push(function() { googletag.display('div-gpt-ad-1604424947544-0'); });
+            </script>
+        </div>
+    </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li class="rail-cell">
+
+
+                                <div class="rail-unit">
+                                    <div class="post_list post_list--featured">
+    <header class="post_list-head">
+        <h2 class="tit">
+            <svg class="icon">
+                <use xlink:href="#thunder" />
+            </svg>
+            <span>Trending</span>
+        </h2>
+    </header>
+    <div class="post_list-body">
+        <ol class="list-post_entry padd-txt">
+                            <li>
+                    <article class="post_entry tiny">
+                                                    <div class="img">
+                                <a href="https://psicologiaymente.com/social/relacion-baja-autoestima-dependencia-emocional">
+                                    <picture>
+                                        <source srcset="https://pymstatic.com/97021/conversions/relacion-baja-autoestima-dependencia-emocional-large-16_9.jpg" media="(min-width: 1121px)">
+                                        <source srcset="https://pymstatic.com/97021/conversions/relacion-baja-autoestima-dependencia-emocional-medium-16_9.jpg" media="(min-width: 769px)">
+                                        <img srcset="https://pymstatic.com/97021/conversions/relacion-baja-autoestima-dependencia-emocional-small-21_9.jpg" alt="¿Cuál es la relación entre la baja autoestima y la dependencia emocional?">
+                                    </picture>
+                                </a>
+                            </div>
+                                                <div class="txt">
+                            <h3 class="tit">
+                                <a href="https://psicologiaymente.com/social/relacion-baja-autoestima-dependencia-emocional">¿Cuál es la relación entre la baja autoestima y la dependencia emocional?</a>
+                            </h3>
+                            <p class="extra">
+
+                                <span class="time">hace 2 días</span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="post_entry tiny">
+                                                <div class="txt">
+                            <h3 class="tit">
+                                <a href="https://psicologiaymente.com/clinica/sindrome-acomodacion-abuso-sexual-infantil">Síndrome de acomodación al abuso sexual infantil: qué es, y características</a>
+                            </h3>
+                            <p class="extra">
+
+                                <span class="time">hace 2 días</span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="post_entry tiny">
+                                                <div class="txt">
+                            <h3 class="tit">
+                                <a href="https://psicologiaymente.com/psicologia/racionalizacion">Racionalización: qué es y cómo influye en nuestro pensamiento</a>
+                            </h3>
+                            <p class="extra">
+
+                                <span class="time">hace 2 días</span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="post_entry tiny">
+                                                <div class="txt">
+                            <h3 class="tit">
+                                <a href="https://psicologiaymente.com/salud/sindrome-down">Síndrome de Down: qué es, qué lo causa, y problemas asociados</a>
+                            </h3>
+                            <p class="extra">
+
+                                <span class="time">hace 2 días</span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="post_entry tiny">
+                                                <div class="txt">
+                            <h3 class="tit">
+                                <a href="https://psicologiaymente.com/neurociencias/efectos-psicologicos-serotonina">¿Cuáles son los efectos psicológicos de la serotonina?</a>
+                            </h3>
+                            <p class="extra">
+
+                                <span class="time">hace 2 días</span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+                    </ol>
+    </div>
+</div>
+                                </div>
+                            </li>
+                        </ul>
+                    </aside>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="article_related-section">
+        <div class="main-wrap">
+            <div class="main-col">
+                <header class="article_related-head">
+                    <h2 class="tit">Artículos relacionados</h2>
+                </header>
+
+                <div class="article_related-body">
+
+                    <div class="article_related-module">
+                        <div class="article_related-wrap">
+
+                                                            <div class="article_related-col">
+                                    <article class="post_entry large huge layered">
+                                        <div class="img">
+                                            <a href="https://psicologiaymente.com/social/frases-romper-el-hielo">
+                                                <picture>
+                                                    <source srcset="https://pymstatic.com/7505/conversions/frases-romper-hielo-large-16_9.jpg" media="(min-width: 1121px)">
+                                                    <source srcset="https://pymstatic.com/7505/conversions/frases-romper-hielo-medium-21_9.jpg" media="(min-width: 769px)">
+                                                    <img srcset="https://pymstatic.com/7505/conversions/frases-romper-hielo-small-4_3.jpg" alt="">
+                                                </picture>
+                                            </a>
+                                        </div>
+                                        <div class="txt">
+                                            <div class="body">
+                                                <p class="extra">
+                                                    <a href="https://psicologiaymente.com/social" class="category">Psicología social y relaciones personales</a>
+                                                </p>
+
+                                                <h3 class="tit">
+                                                    <a href="https://psicologiaymente.com/social/frases-romper-el-hielo">50 frases y preguntas para romper el hielo</a>
+                                                </h3>
+
+                                                <p class="author">
+                                                    <a href="https://psicologiaymente.com/autores/izzat-haykal" class="author author_link">
+                                                        <avatar username="​Izzat Haykal" class="avatar--rounded avatar--small" src="https://pymstatic.com/13043/conversions/izzat-haykal-small.jpg"></avatar>
+                                                        <span class="name">​Izzat Haykal</span>
+                                                    </a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+                                                            <div class="article_related-col">
+                                    <article class="post_entry large huge layered">
+                                        <div class="img">
+                                            <a href="https://psicologiaymente.com/social/preguntas-para-whatsapp">
+                                                <picture>
+                                                    <source srcset="https://pymstatic.com/7933/conversions/preguntas-para-whatsapp-large-16_9.jpg" media="(min-width: 1121px)">
+                                                    <source srcset="https://pymstatic.com/7933/conversions/preguntas-para-whatsapp-medium-21_9.jpg" media="(min-width: 769px)">
+                                                    <img srcset="https://pymstatic.com/7933/conversions/preguntas-para-whatsapp-small-4_3.jpg" alt="">
+                                                </picture>
+                                            </a>
+                                        </div>
+                                        <div class="txt">
+                                            <div class="body">
+                                                <p class="extra">
+                                                    <a href="https://psicologiaymente.com/social" class="category">Psicología social y relaciones personales</a>
+                                                </p>
+
+                                                <h3 class="tit">
+                                                    <a href="https://psicologiaymente.com/social/preguntas-para-whatsapp">​40 preguntas para WhatsApp con las que descubrir más de tus amigos</a>
+                                                </h3>
+
+                                                <p class="author">
+                                                    <a href="https://psicologiaymente.com/autores/juan-armando-corbin" class="author author_link">
+                                                        <avatar username="Juan Armando Corbin" class="avatar--rounded avatar--small" src="https://pymstatic.com/44250/conversions/juan-armando-corbin-small.jpg"></avatar>
+                                                        <span class="name">Juan Armando Corbin</span>
+                                                    </a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+                                                    </div>
+                    </div>
+
+                    <ul class="article_related-list">
+                                                    <li class="article_related-item">
+                                <article class="post_entry medium card">
+    <div class="img">
+        <a href="https://psicologiaymente.com/social/preguntas-abiertas">
+            <picture>
+                <source srcset="https://pymstatic.com/6567/conversions/preguntas-abiertas-large-16_9.jpg" media="(min-width: 1121px)">
+                <source srcset="https://pymstatic.com/6567/conversions/preguntas-abiertas-medium-16_9.jpg" media="(min-width: 769px)">
+                <img srcset="https://pymstatic.com/6567/conversions/preguntas-abiertas-small-21_9.jpg" alt="">
+            </picture>
+        </a>
+    </div>
+
+    <div class="txt">
+        <p class="extra">
+                        <a href="https://psicologiaymente.com/social" class="category">
+                Psicología social y relaciones personales
+            </a>
+        </p>
+
+        <h3 class="tit">
+            <a href="https://psicologiaymente.com/social/preguntas-abiertas">
+                ​45 preguntas abiertas para conocer la mente de una persona
+            </a>
+        </h3>
+
+        <p class="author">
+            <a href="https://psicologiaymente.com/autores/juan-armando-corbin" class="author_link">
+                <avatar username="Juan Armando Corbin" class="avatar--rounded avatar--small" src="https://pymstatic.com/44250/conversions/juan-armando-corbin-small.jpg"></avatar>
+                <span class="name">Juan Armando Corbin</span>
+            </a>
+        </p>
+    </div>
+</article>
+                            </li>
+                                                    <li class="article_related-item">
+                                <article class="post_entry medium card">
+    <div class="img">
+        <a href="https://psicologiaymente.com/social/tipos-chantaje-emocional">
+            <picture>
+                <source srcset="https://pymstatic.com/9580/conversions/tipos-chantaje-emocional-large-16_9.jpg" media="(min-width: 1121px)">
+                <source srcset="https://pymstatic.com/9580/conversions/tipos-chantaje-emocional-medium-16_9.jpg" media="(min-width: 769px)">
+                <img srcset="https://pymstatic.com/9580/conversions/tipos-chantaje-emocional-small-21_9.jpg" alt="">
+            </picture>
+        </a>
+    </div>
+
+    <div class="txt">
+        <p class="extra">
+                        <a href="https://psicologiaymente.com/social" class="category">
+                Psicología social y relaciones personales
+            </a>
+        </p>
+
+        <h3 class="tit">
+            <a href="https://psicologiaymente.com/social/tipos-chantaje-emocional">
+                Los 8 tipos de chantaje emocional (y señales para detectarlo)
+            </a>
+        </h3>
+
+        <p class="author">
+            <a href="https://psicologiaymente.com/autores/arturo-torres" class="author_link">
+                <avatar username="Arturo Torres" class="avatar--rounded avatar--small" src="https://pymstatic.com/44247/conversions/arturo-torres-small.jpg"></avatar>
+                <span class="name">Arturo Torres</span>
+            </a>
+        </p>
+    </div>
+</article>
+                            </li>
+                                                    <li class="article_related-item">
+                                <article class="post_entry medium card">
+    <div class="img">
+        <a href="https://psicologiaymente.com/pareja/maneras-de-arruinar-relacion">
+            <picture>
+                <source srcset="https://pymstatic.com/11451/conversions/maneras-de-arruinar-relacion-large-16_9.jpg" media="(min-width: 1121px)">
+                <source srcset="https://pymstatic.com/11451/conversions/maneras-de-arruinar-relacion-medium-16_9.jpg" media="(min-width: 769px)">
+                <img srcset="https://pymstatic.com/11451/conversions/maneras-de-arruinar-relacion-small-21_9.jpg" alt="Discusión de pareja.">
+            </picture>
+        </a>
+    </div>
+
+    <div class="txt">
+        <p class="extra">
+                        <a href="https://psicologiaymente.com/pareja" class="category">
+                Pareja
+            </a>
+        </p>
+
+        <h3 class="tit">
+            <a href="https://psicologiaymente.com/pareja/maneras-de-arruinar-relacion">
+                6 maneras de arruinar una relación que funciona
+            </a>
+        </h3>
+
+        <p class="author">
+            <a href="https://psicologiaymente.com/autores/arturo-torres" class="author_link">
+                <avatar username="Arturo Torres" class="avatar--rounded avatar--small" src="https://pymstatic.com/44247/conversions/arturo-torres-small.jpg"></avatar>
+                <span class="name">Arturo Torres</span>
+            </a>
+        </p>
+    </div>
+</article>
+                            </li>
+                                                    <li class="article_related-item">
+                                <article class="post_entry medium card">
+    <div class="img">
+        <a href="https://psicologiaymente.com/social/habitos-conectar-emocionalmente-alguien">
+            <picture>
+                <source srcset="https://pymstatic.com/1796/conversions/conectar-emocionalmente-large-16_9.jpg" media="(min-width: 1121px)">
+                <source srcset="https://pymstatic.com/1796/conversions/conectar-emocionalmente-medium-16_9.jpg" media="(min-width: 769px)">
+                <img srcset="https://pymstatic.com/1796/conversions/conectar-emocionalmente-small-21_9.jpg" alt="">
+            </picture>
+        </a>
+    </div>
+
+    <div class="txt">
+        <p class="extra">
+                        <a href="https://psicologiaymente.com/social" class="category">
+                Psicología social y relaciones personales
+            </a>
+        </p>
+
+        <h3 class="tit">
+            <a href="https://psicologiaymente.com/social/habitos-conectar-emocionalmente-alguien">
+                9 hábitos para conectar emocionalmente con alguien
+            </a>
+        </h3>
+
+        <p class="author">
+            <a href="https://psicologiaymente.com/autores/xavier-molina" class="author_link">
+                <avatar username="Xavier Molina" class="avatar--rounded avatar--small" src="https://pymstatic.com/44253/conversions/xavier-molina-small.jpg"></avatar>
+                <span class="name">Xavier Molina</span>
+            </a>
+        </p>
+    </div>
+</article>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="category_feat-section">
+        <div class="main-wrap">
+            <div class="main-col">
+                <div class="category_feat-module">
+                    <div class="category_feat-wrap">
+                        <div class="category_feat-cell posts">
+                            <div class="OUTBRAIN" data-src="https://psicologiaymente.com/social/preguntas-conocer-mejor-persona" data-widget-id="GS_3" data-ob-template="Psicologiaymente.com"></div>
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+                        </div>
+
+                        <div class="category_feat-cell aside sticky_rail">
+                                                            <div class="banner facebook facebook-ads-square">
+
+                                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                                    <ins class="adsbygoogle"
+                                         style="display:inline-block;width:300px;height:250px"
+
+                                         data-ad-client="ca-pub-7798082898583367"
+                                         data-ad-slot="4305110164"></ins>
+                                    <script>
+                                        (adsbygoogle = window.adsbygoogle || []).push({});
+                                    </script>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <post-comments :post-id="589"></post-comments>
+</main>
+
+            <footer class="main_foot large bg-white">
+    <div class="main-wrap">
+        <div class="main-col">
+            <div class="main_foot-body">
+                <div class="main_foot-wrap" itemprop="publisher" itemscope id="schema-ref-organization" itemtype="https://schema.org/Organization">
+                    <div class="main_foot-cell main_foot-cell--body_left">
+                        <div class="main_foot_brand-module">
+                            <a href="https://psicologiaymente.com" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                                <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="198" height="25" viewBox="0 0 198 25">
+  <g fill="none" fill-rule="evenodd">
+    <path class="imago" fill="#2F235B" d="M192.196845,10.772636 C190.664586,10.772636 190.101256,12.1474939 190.056189,13.2738235 L194.337501,13.2738235 C194.314968,12.1474939 193.774171,10.772636 192.196845,10.772636 L192.196845,10.772636 Z M187.329669,14.2652853 C187.329669,11.1108 189.199927,8.56454601 192.241912,8.56454601 C195.261363,8.56454601 196.928987,10.9978025 196.928987,14.3779514 L196.928987,15.1666141 L190.056189,15.1666141 C190.191223,16.6314392 191.070184,17.7807992 192.715109,17.7807992 C193.526305,17.7807992 194.495234,17.397403 195.103631,16.6988732 L196.365491,18.3663315 C195.396562,19.4255586 193.90937,19.9888892 192.444711,19.9888892 C189.357659,19.9888892 187.329669,17.6903349 187.329669,14.2652853 L187.329669,14.2652853 Z M181.816983,17.1046368 L181.816983,11.2007672 L180.419923,11.2007672 L180.419923,8.83494466 L181.816983,8.83494466 L181.816983,5.86039378 L184.543668,5.86039378 L184.543668,8.83494466 L186.323793,8.83494466 L186.323793,11.2007672 L184.543668,11.2007672 L184.543668,16.473541 C184.543668,17.1722365 184.791534,17.6003677 185.332166,17.6003677 C185.670164,17.6003677 185.985795,17.4651684 186.143527,17.2849026 L186.684159,19.3577933 C186.278561,19.7183248 185.580031,19.9888892 184.611268,19.9888892 C182.695779,19.9888892 181.816983,19.0199606 181.816983,17.1046368 L181.816983,17.1046368 Z M176.394761,19.7183248 L176.394761,12.5756251 C176.394761,11.4037319 175.853798,10.9530675 174.952635,10.9530675 C174.05114,10.9530675 173.330243,11.6515973 172.947012,12.304895 L172.947012,19.7183248 L170.243026,19.7183248 L170.243026,8.83494466 L172.947012,8.83494466 L172.947012,10.2542062 C173.532876,9.39794382 174.772369,8.56454601 176.169429,8.56454601 C178.197419,8.56454601 179.098748,9.71340892 179.098748,11.5612987 L179.098748,19.7183248 L176.394761,19.7183248 Z M163.851875,10.772636 C162.319616,10.772636 161.75612,12.1474939 161.711219,13.2738235 L165.992531,13.2738235 C165.969998,12.1474939 165.429201,10.772636 163.851875,10.772636 L163.851875,10.772636 Z M158.9847,14.2652853 C158.9847,11.1108 160.854957,8.56454601 163.896942,8.56454601 C166.916393,8.56454601 168.583852,10.9978025 168.583852,14.3779514 L168.583852,15.1666141 L161.711219,15.1666141 C161.846253,16.6314392 162.725214,17.7807992 164.370139,17.7807992 C165.181335,17.7807992 166.150264,17.397403 166.758661,16.6988732 L168.020521,18.3663315 C167.051593,19.4255586 165.5644,19.9888892 164.099741,19.9888892 C161.012689,19.9888892 158.9847,17.6903349 158.9847,14.2652853 L158.9847,14.2652853 Z M154.336229,19.7183248 L154.336229,9.60090849 L150.933712,19.7183248 L149.784518,19.7183248 L146.404369,9.60090849 L146.404369,19.7183248 L143.384917,19.7183248 L143.384917,4.68850059 L147.418364,4.68850059 L150.347848,13.521689 L153.322234,4.68850059 L157.333147,4.68850059 L157.333147,19.7183248 L154.336229,19.7183248 Z M127.251297,22.7152432 L128.310524,20.6421869 C129.031587,21.4762474 130.113181,21.8366133 131.08211,21.8366133 C132.569303,21.8366133 133.403032,20.9127512 133.403032,19.3577933 L133.403032,17.9158328 C132.817168,18.7720952 131.622907,19.5607579 130.203314,19.5607579 C128.175324,19.5607579 127.27383,18.4566301 127.27383,16.608906 L127.27383,8.83494466 L129.977982,8.83494466 L129.977982,15.5947453 C129.977982,16.7441053 130.518779,17.1722365 131.420108,17.1722365 C132.321437,17.1722365 133.0425,16.5186074 133.403032,15.865144 L133.403032,8.83494466 L136.129552,8.83494466 L136.129552,19.3577933 C136.129552,22.3547117 134.281827,24.1348362 131.217309,24.1348362 C129.572219,24.1348362 128.242924,23.6618042 127.251297,22.7152432 L127.251297,22.7152432 Z M117.404776,16.3159741 L117.404776,12.2372954 C117.044245,11.5389312 116.255582,10.9756007 115.511986,10.9756007 C114.092393,10.9756007 113.37133,12.3724947 113.37133,14.2652853 C113.37133,16.1807748 114.092393,17.6003677 115.511986,17.6003677 C116.255582,17.6003677 117.044245,17.0370372 117.404776,16.3159741 L117.404776,16.3159741 Z M117.404776,19.7183248 L117.404776,18.343964 C116.728779,19.4255586 115.692251,19.9888892 114.63319,19.9888892 C112.177069,19.9888892 110.57721,17.8482331 110.57721,14.2652853 C110.57721,10.7953349 112.177069,8.56454601 114.63319,8.56454601 C115.692251,8.56454601 116.751147,9.08281009 117.404776,10.2318387 L117.404776,8.83494466 L120.108763,8.83494466 L120.108763,19.7183248 L117.404776,19.7183248 Z M106.002801,19.7184905 L108.706787,19.7184905 L108.706787,8.83494466 L106.002801,8.83494466 L106.002801,19.7184905 Z M107.53506,7.18968814 L105.732568,7.18968814 L108.166155,3.94490429 L110.57721,3.94490429 L107.53506,7.18968814 Z M101.031243,15.9778101 L101.031243,12.2149278 C100.670711,11.5162323 99.8820486,10.9530675 99.1384523,10.9530675 C97.7186937,10.9530675 96.9977963,12.2149278 96.9977963,14.1078841 C96.9977963,16.000509 97.7186937,17.2398362 99.1384523,17.2398362 C99.8820486,17.2398362 100.670711,16.6765056 101.031243,15.9778101 L101.031243,15.9778101 Z M94.6767088,22.7152432 L95.7359359,20.6421869 C96.5020654,21.4308496 97.4484607,21.8366133 98.5749561,21.8366133 C99.8144489,21.8366133 101.031243,21.1606167 101.031243,19.3577933 L101.031243,17.9382003 C100.355081,19.0199606 99.3187181,19.6283576 98.2596567,19.6283576 C95.8035356,19.6283576 94.2036769,17.6679674 94.2036769,14.1078841 C94.2036769,10.6150691 95.7808367,8.56454601 98.2596567,8.56454601 C99.3187181,8.56454601 100.355081,9.08281009 101.031243,10.2318387 L101.031243,8.83494466 L103.735229,8.83494466 L103.735229,19.3577933 C103.735229,23.0984737 101.143909,24.1348362 98.7103211,24.1348362 C97.0879292,24.1348362 95.8260688,23.7522685 94.6767088,22.7152432 L94.6767088,22.7152432 Z M90.0802631,14.2652853 C90.0802631,12.4851608 89.4267997,10.9530675 87.9396071,10.9530675 C86.4749477,10.9530675 85.7989511,12.4851608 85.7989511,14.2652853 C85.7989511,16.0682743 86.4749477,17.6003677 87.9396071,17.6003677 C89.4267997,17.6003677 90.0802631,16.0682743 90.0802631,14.2652853 L90.0802631,14.2652853 Z M82.9822984,14.2652853 C82.9822984,11.2007672 84.7173564,8.56454601 87.9396071,8.56454601 C91.1843909,8.56454601 92.8970814,11.2007672 92.8970814,14.2652853 C92.8970814,17.3298034 91.1843909,19.9888892 87.9396071,19.9888892 C84.7173564,19.9888892 82.9822984,17.3298034 82.9822984,14.2652853 L82.9822984,14.2652853 Z M77.5519578,17.1046368 L77.5519578,4.68850059 L80.2559443,4.68850059 L80.2559443,16.473541 C80.2559443,17.1722365 80.526343,17.6003677 81.0671403,17.6003677 C81.3827711,17.6003677 81.7206037,17.4651684 81.855803,17.2849026 L82.4192992,19.3577933 C82.0135356,19.7183248 81.3150057,19.9888892 80.323544,19.9888892 C78.4307534,19.9888892 77.5519578,19.0199606 77.5519578,17.1046368 L77.5519578,17.1046368 Z M73.0308989,14.2652853 C73.0308989,12.4851608 72.3774355,10.9530675 70.8904086,10.9530675 C69.4257492,10.9530675 68.7497526,12.4851608 68.7497526,14.2652853 C68.7497526,16.0682743 69.4257492,17.6003677 70.8904086,17.6003677 C72.3774355,17.6003677 73.0308989,16.0682743 73.0308989,14.2652853 L73.0308989,14.2652853 Z M65.9329342,14.2652853 C65.9329342,11.2007672 67.6679923,8.56454601 70.8904086,8.56454601 C74.1351924,8.56454601 75.8477172,11.2007672 75.8477172,14.2652853 C75.8477172,17.3298034 74.1351924,19.9888892 70.8904086,19.9888892 C67.6679923,19.9888892 65.9329342,17.3298034 65.9329342,14.2652853 L65.9329342,14.2652853 Z M56.8760705,14.2652853 C56.8760705,10.9530675 58.8815272,8.56454601 61.8784456,8.56454601 C63.5909704,8.56454601 64.7401647,9.26307586 65.3485616,10.0290397 L64.0418005,11.8994627 C63.545904,11.2683669 62.9600402,10.9530675 62.1939107,10.9530675 C60.6389527,10.9530675 59.6701899,12.3499615 59.6701899,14.2652853 C59.6701899,16.1807748 60.6389527,17.6003677 62.1939107,17.6003677 C62.9600402,17.6003677 63.545904,17.2622037 64.0418005,16.6314392 L65.3485616,18.5242298 C64.7401647,19.3130582 63.5909704,19.9888892 61.8784456,19.9888892 C58.8815272,19.9888892 56.8760705,17.6003677 56.8760705,14.2652853 L56.8760705,14.2652853 Z M52.3018266,19.7184905 L55.0056474,19.7184905 L55.0056474,8.83494466 L52.3018266,8.83494466 L52.3018266,19.7184905 Z M52.0314279,5.9955931 C52.0314279,5.09442994 52.7751899,4.35066796 53.6538198,4.35066796 C54.5553144,4.35066796 55.298745,5.09442994 55.298745,5.9955931 C55.298745,6.89675627 54.5553144,7.61781934 53.6538198,7.61781934 C52.7751899,7.61781934 52.0314279,6.89675627 52.0314279,5.9955931 L52.0314279,5.9955931 Z M42.1620427,18.4339312 L43.311237,16.5186074 C43.9873993,17.2171373 45.2040276,17.8482331 46.3081554,17.8482331 C47.3673825,17.8482331 47.9305474,17.397403 47.9305474,16.6988732 C47.9305474,14.8963812 42.5449418,15.8878429 42.5449418,11.8318631 C42.5449418,10.0739405 43.9421672,8.56454601 46.5111201,8.56454601 C48.0657467,8.56454601 49.3726735,9.12771085 50.3190688,9.96144003 L49.2374742,11.8318631 C48.6966769,11.245668 47.6826819,10.7050363 46.5560209,10.7050363 C45.6772252,10.7050363 45.0915272,11.1558664 45.0915272,11.7415645 C45.0915272,13.3641221 50.5445667,12.5078597 50.5445667,16.608906 C50.5445667,18.5692962 48.9445423,19.9888892 46.3759208,19.9888892 C44.5956306,19.9888892 43.0859048,19.3804922 42.1620427,18.4339312 L42.1620427,18.4339312 Z M38.9785625,9.48824239 C38.9785625,8.18114987 38.1898997,7.34758638 37.0181722,7.34758638 L34.854983,7.34758638 L34.854983,11.6288984 L37.0181722,11.6288984 C38.1898997,11.6288984 38.9785625,10.772636 38.9785625,9.48824239 L38.9785625,9.48824239 Z M31.8355314,19.7183248 L31.8355314,4.68850059 L37.3787038,4.68850059 C40.4882883,4.68850059 42.0657795,6.91945517 42.0657795,9.48824239 C42.0657795,12.0570296 40.4882883,14.2652853 37.3787038,14.2652853 L34.854983,14.2652853 L34.854983,19.7183248 L31.8355314,19.7183248 Z"/>
+    <path class="brand" fill="#E62F5D" d="M6.91973684,7.2351688 C6.88510858,6.90595181 6.87566451,6.56795349 6.87102532,6.28181472 C6.86820866,5.93105862 6.86820866,5.58046821 6.86820866,5.22788957 C6.871191,4.91838915 6.85081169,4.61518478 6.80756779,4.32556661 C6.75802784,4.00960446 6.68048705,3.73572641 6.57047191,3.48902077 C6.43013633,3.16941354 6.24904214,2.92287359 6.01675114,2.73531766 C5.96323474,2.69207376 5.89613213,2.65562296 5.82521876,2.61718394 C5.67527342,2.53599807 5.5206889,2.45199554 5.47678225,2.30188452 C5.44298242,2.18590471 5.47860479,2.03198293 5.57685627,1.85320833 L5.59276207,1.83166922 C5.70658797,1.67658764 5.82422464,1.51636981 5.97151901,1.36874407 C6.01062077,1.32550017 6.05403036,1.28573566 6.09793701,1.24530841 C6.13521623,1.21101152 6.17282683,1.17621758 6.19966787,1.14738831 C6.23926669,1.11690219 6.27638024,1.08509058 6.31349378,1.0529476 C6.3610455,1.01218898 6.40843154,0.971264676 6.4657587,0.930671741 C6.64271077,0.789673423 6.84766367,0.668225988 7.03439117,0.560033389 C7.0602381,0.548766779 7.10663003,0.524079647 7.15799251,0.496575862 C7.22426669,0.461119176 7.32434071,0.407602775 7.36841304,0.394016569 C7.41960984,0.372311775 7.46782431,0.351104037 7.50907998,0.329896299 L7.67128604,0.267101514 C7.73225828,0.242414382 7.79405896,0.223691926 7.85569394,0.204803785 C7.90324567,0.190554836 7.95096308,0.175974516 7.98923642,0.161559882 C8.02999504,0.151950126 8.07075366,0.140849201 8.11151228,0.129748276 C8.17811783,0.111854247 8.2445577,0.0934631623 8.3162995,0.081202439 C8.50385542,0.0372957948 8.68892607,0.0217213625 8.86786636,0.00664398655 L8.93894542,0.000347939451 C9.28821034,0.000347939451 9.44528015,0.138529605 9.44859386,0.448527082 L9.44942229,0.522754163 L9.46764769,0.524742389 C9.53690421,1.06537401 9.48637014,5.89493919 9.45853499,8.54275837 C9.45588402,8.74588873 9.40998915,9.08686939 9.13362582,9.08686939 C9.10711615,9.08686939 9.07878394,9.08388705 9.04862918,9.07825374 C8.74061993,9.01761287 8.3013878,8.90710067 8.06429193,8.80735803 L7.96173263,8.76510824 C7.50676039,8.577718 7.2322196,8.46472052 7.08194289,8.02532271 C7.00407073,7.79783659 6.95237687,7.54698881 6.91973684,7.2351688 Z M11.5920831,0.522952986 L11.5937399,0.449554331 C11.6020242,0.0512465097 11.8704347,0.000381076532 12.0960982,4.97056317e-05 L12.1764557,0.00684280908 C12.3557273,0.021920185 12.541295,0.0373289319 12.7310049,0.0823953743 C12.7976104,0.0934962994 12.8643817,0.111887384 12.9308215,0.129947098 C12.9715802,0.140882338 13.0121731,0.151983263 13.0443161,0.159107738 C13.0913707,0.175841968 13.1389225,0.190587973 13.1864742,0.204836922 C13.2481092,0.223559378 13.3099098,0.242447519 13.3720419,0.267466022 L13.5259637,0.326781413 C13.5743438,0.351137174 13.622724,0.372344912 13.6823707,0.397032044 C13.7176617,0.407635913 13.8134279,0.458667031 13.8835129,0.496277628 C13.9353724,0.523947098 13.98193,0.54863423 14.0001554,0.556255761 C14.1933447,0.666105214 14.3971378,0.78788402 14.5803859,0.933687216 C14.6337366,0.971297813 14.6811226,1.01222212 14.72884,1.05298074 C14.7657879,1.08512372 14.8030671,1.11693532 14.8335532,1.13946854 C14.8693413,1.17625071 14.9072833,1.21121034 14.9448939,1.2458386 C14.9884691,1.28593448 15.0318787,1.32569899 15.0736315,1.37175955 C15.2181092,1.51640294 15.3357458,1.67662077 15.4494061,1.83153667 L15.4616668,1.84793953 C15.6906441,2.21642397 15.4068249,2.47886972 15.0121622,2.78373095 C14.895851,2.87369815 14.7954456,2.95123894 14.7366272,3.02712288 C14.5754153,3.23555517 14.4511512,3.47861573 14.3568762,3.7703878 C14.2407307,4.13887225 14.1799241,4.53419773 14.1711428,4.97873179 C14.1686575,5.13000261 14.1686575,5.28193616 14.1686575,5.43386972 C14.1686575,5.58464348 14.1686575,5.73558293 14.1660066,5.88685374 L14.1656752,5.94434659 C14.1633556,6.4122423 14.161036,6.8962095 14.0992353,7.36609344 C14.0639443,7.644445 14.0117534,7.86894878 13.9348754,8.07290757 C13.8174044,8.391355 13.6334935,8.482482 13.3286323,8.63342145 C13.2701453,8.6624164 13.208179,8.69290252 13.1427332,8.72753078 C12.8885717,8.8605762 12.4403926,8.99014222 12.1290696,9.04945761 C12.0888081,9.05724483 12.0500377,9.06122128 12.0140839,9.06122128 C11.6013615,9.06122128 11.5859527,8.53550135 11.5859527,8.52953667 C11.558946,6.08285963 11.5039384,1.07601102 11.5745204,0.524775526 L11.5920831,0.522952986 Z M8.5980476,10.2278622 L8.66249924,10.2409514 C9.18573389,10.3499724 9.45116198,10.4967697 9.45116198,10.6770355 C9.42548074,16.9063114 9.27586678,23.618726 9.27487267,23.6792012 C9.27371287,23.6901364 9.24471791,23.9459548 9.06213255,23.9481087 C8.727945,23.9544047 8.51321665,23.9547361 8.31505685,23.927398 C8.31505685,23.927398 8.11971371,23.9678252 6.55050681,23.7033913 C5.43229571,23.5150069 4.75729319,23.1794939 4.46055055,23.0017134 C4.40587435,22.9761978 4.35103246,22.9520077 4.29701901,22.9233442 C3.9976254,22.762795 3.76500303,22.6164947 3.5615413,22.4600876 C3.46710059,22.395636 3.37829319,22.3242256 3.28468091,22.2483416 L3.00268427,22.0026301 C2.95712077,21.9623685 2.90575828,21.9166394 2.8759349,21.881514 C2.69500639,21.7080414 2.49038486,21.4833719 2.29951522,21.2447849 C2.13962876,21.0269085 1.98868932,20.8209615 1.87536047,20.6067302 C1.79848242,20.4687142 1.67239579,20.0399203 1.81587939,19.7953685 C1.88762119,19.6730927 2.01784996,19.6136116 2.2143529,19.6136116 C2.24881548,19.6136116 2.28559765,19.6155998 2.32635627,19.6195763 L2.42775576,19.6281919 C2.52468175,19.6363105 2.62077931,19.6447605 2.71737393,19.6484056 C2.84843112,19.6484056 2.97435206,19.6432693 3.10524357,19.637636 L3.1493159,19.6331625 C3.31881211,19.6155998 3.48151522,19.5982029 3.64869184,19.5642373 C3.80907536,19.4684712 4.19843616,19.2035401 4.27796518,18.8435056 C4.36080791,18.4687251 3.91577679,18.2624468 3.75489622,18.2008118 C3.70320235,18.2044569 3.65647906,18.2026343 3.60561362,18.2041255 C3.56203835,18.205451 3.51680622,18.2062794 3.47074567,18.2062794 C3.2460762,18.2062794 2.91056316,18.1875569 2.58747653,18.0975897 C2.23920572,18.0079539 1.90534954,17.8644703 1.59551775,17.6712811 C1.26878604,17.4633458 0.992422708,17.2199539 0.773055172,16.9477327 C0.537119092,16.6625881 0.35221413,16.3436436 0.223973591,16.0016688 C0.0871174096,15.6010414 0.0278020185,15.3139085 0.00493742641,14.9431045 C-0.0134536585,14.5766082 0.0196834315,14.2293315 0.10385164,13.9102214 C0.190836501,13.5700691 0.308804542,13.2633854 0.454773423,12.9989514 C0.621618671,12.6942558 0.800393272,12.5915309 1.16374146,12.5915309 C1.36538066,12.5915309 1.63213423,12.6258278 2.03060774,12.7027058 C2.06805265,12.7093332 2.10450345,12.7164577 2.14078856,12.7234165 C2.22081463,12.7389909 2.29951522,12.754234 2.3863344,12.7633467 C2.52584155,12.7782584 2.65491051,12.7873711 2.78083146,12.7888622 C2.86847906,12.7840574 2.95397275,12.7792525 3.04327721,12.7767672 L3.38906274,12.7318664 C3.57264222,12.6112474 3.87733776,12.369181 3.94659428,12.0558698 C4.03374483,11.6613728 3.53586005,11.4534375 3.40066072,11.404726 C3.36702658,11.4030691 3.33438654,11.4035662 3.30008966,11.4000868 C3.18521441,11.3924653 3.12291668,11.3876052 3.11319647,11.3855065 C3.02621161,11.3707605 2.93955812,11.3581684 2.85008797,11.346239 L2.78099714,11.3248656 C2.73791892,11.3112794 2.69749167,11.2985216 2.65441346,11.2882491 C2.62376165,11.2804619 2.5889677,11.2668757 2.55317965,11.2534552 C2.51772296,11.2400347 2.48160353,11.2264484 2.45443112,11.2186612 C2.18535795,11.1119598 1.92987098,10.9578723 1.69608881,10.7626949 C1.45617628,10.5547596 1.26398116,10.3226343 1.12331421,10.0706267 C0.977676703,9.82872599 0.873626241,9.54672935 0.813316737,9.22828192 C0.802878553,9.18619781 0.799233474,9.14096569 0.795091337,9.09324828 C0.792606056,9.06392195 0.790120774,9.034927 0.786144323,9.0052693 L0.774049285,8.92358638 L0.773552229,8.64606325 L0.784321783,8.54665198 C0.78697275,8.51086392 0.78697275,8.47789251 0.785812952,8.45569066 L0.804204037,8.3425275 C0.839329352,8.1079169 0.907591758,7.87595728 1.00368932,7.65079075 C1.10807115,7.29556114 1.27823011,6.86245938 1.55475913,6.34717763 C2.2166725,5.11348377 3.12114937,4.19691186 3.56767166,3.78617763 C3.62284491,3.72752498 3.68000639,3.67119193 3.73650513,3.61784121 C3.91014348,3.46292532 4.11807872,3.33120538 4.33960017,3.23610193 C4.6171233,3.11167216 4.8185968,3.14779159 4.90309638,3.36583364 C4.95164222,3.48794382 4.97516955,3.63358133 4.97516955,3.81069907 L4.9758323,4.47062422 C4.97632935,4.90952498 4.97699209,5.34842574 4.97516955,5.78798923 C4.97251859,6.29796905 5.0111233,6.76304811 5.09330328,7.2095704 C5.16421665,7.59379495 5.26429066,7.93709521 5.39998705,8.25835929 C5.63791135,8.8253349 6.01898789,9.2569455 6.5324471,9.54109605 C6.84161615,9.71274617 7.17182725,9.8547386 7.51313928,9.96326257 C7.87068848,10.0799051 8.2404984,10.1551263 8.5980476,10.2278622 Z M20.5855225,12.9950412 C20.7107807,13.2553331 20.8507849,13.5676501 20.9385981,13.9107847 C21.0226007,14.2298949 21.0557378,14.5770059 21.0373467,14.9421766 C21.0143164,15.3144718 20.955001,15.6016047 20.8189733,15.9992498 C20.6879161,16.3493431 20.5030111,16.668122 20.2682348,16.9484617 C20.0498614,17.2201859 19.7733324,17.4632464 19.4472634,17.6708503 C19.1369346,17.8643709 18.8029127,18.0080202 18.4533164,18.0981531 C18.1317209,18.1874575 17.7962079,18.2063457 17.5715384,18.2063457 C17.5253122,18.2063457 17.4802458,18.2055172 17.4363391,18.2040261 C17.3569758,18.2017065 17.2900389,18.2091623 17.1868168,18.1867948 L17.0401852,18.1634331 L16.8645586,18.1342725 C16.7803904,18.1622733 16.2023139,18.3707056 16.2957605,18.7935349 C16.3451347,19.0173759 16.5147966,19.2044348 16.6745174,19.3371489 C16.7325073,19.3646526 16.791657,19.3903339 16.8531263,19.4120387 C16.9319926,19.4489865 17.0367058,19.4753305 17.1477151,19.5033314 L17.194604,19.515095 C17.4345166,19.5858427 17.6575292,19.608873 17.893631,19.6332288 L17.9421768,19.6380336 C18.0671036,19.6433356 18.1920304,19.6484718 18.3282239,19.6484718 C18.4226646,19.6446611 18.5174367,19.6365425 18.6132029,19.6282582 L18.7212298,19.6191455 C18.9813559,19.5813692 19.1526747,19.6324003 19.2363458,19.7748898 C19.3783383,20.017122 19.2441331,20.4679521 19.1655981,20.6089504 C19.0506124,20.8313003 18.8855897,21.0531531 18.7280229,21.2652304 C18.546763,21.4897342 18.3429699,21.7144037 18.1640296,21.8863852 C18.1376856,21.9162086 18.0907966,21.9572986 18.0457302,21.9972288 L17.7597571,22.2465854 C17.6651507,22.3228007 17.5758463,22.3952052 17.4767664,22.4628049 C17.2774468,22.6162296 17.0451558,22.7625299 16.7454308,22.9232447 C16.723726,22.9348427 16.7015241,22.9451152 16.679488,22.9560505 C16.3935149,23.1305172 15.7132104,23.4769655 14.5698151,23.6696577 C13.6701431,23.8212599 13.2231238,23.8724567 13.0045847,23.8886939 C12.8226621,23.9506602 12.6664207,23.9700454 12.4185553,23.9700454 C12.3004215,23.9700454 12.1629026,23.9655719 11.9952289,23.9584474 C11.790276,23.9488377 11.7684056,23.677942 11.7677428,23.6709832 L11.5911221,10.6757763 C11.5868143,10.4337098 11.8727874,10.3284996 12.1141911,10.2827704 C12.213271,10.2628881 12.3125166,10.2443314 12.4114308,10.2256089 C12.7262331,10.1662935 13.0514737,10.1049899 13.3684299,10.0107149 C13.8258875,9.87568124 14.2193904,9.70900168 14.5716377,9.50123213 C14.9735906,9.26297645 15.2845822,8.94088394 15.4959968,8.54340454 C15.6066747,8.33762321 15.7014468,8.11361648 15.7774964,7.87701766 C15.958922,7.30258621 16.0538597,6.6718217 16.0593273,6.00245248 C16.062641,5.53240286 16.0614812,5.06135913 16.0604871,4.59081245 C16.0599901,4.35570479 16.0593273,4.12076283 16.0593273,3.88598654 C16.0593273,3.81043398 16.0633038,3.72974516 16.0740733,3.62022708 C16.0878252,3.49331203 16.1020742,3.36192347 16.1721591,3.27096215 C16.2195452,3.20916148 16.2997369,3.17784693 16.4110775,3.17784693 C16.5331877,3.17784693 16.6609312,3.21744575 16.7048378,3.23699664 C16.8933879,3.31818251 17.0718311,3.42770059 17.2300607,3.54666274 C17.2300607,3.54666274 18.6054156,4.64929941 19.5166856,6.34757527 C19.863631,6.9940799 20.0442281,7.51267536 20.1355208,7.90800084 C20.1815813,8.05148444 20.2162096,8.19695627 20.2380801,8.34358789 L20.2551457,8.44217073 C20.2551457,8.47746173 20.2577966,8.50993608 20.260779,8.54738099 L20.2659152,8.92332128 L20.2558084,9.00583263 C20.2519976,9.03449622 20.2498437,9.06349117 20.2476898,9.09232044 C20.2443761,9.13987216 20.2408967,9.18477292 20.2281389,9.23232464 C20.1686579,9.54547014 20.0652701,9.82779815 19.9204611,10.0723499 C19.7779716,10.3236947 19.5846167,10.55582 19.3473551,10.761767 C19.1124131,10.9579386 18.8569262,11.1118604 18.5948118,11.2162422 C18.5613433,11.2261833 18.5265494,11.2394382 18.4922525,11.2525273 C18.4564644,11.2662792 18.4211734,11.2801968 18.3886991,11.287984 C18.3481061,11.2977595 18.3116553,11.3093574 18.2723879,11.3216182 C18.2477008,11.3295711 18.2218538,11.3378553 18.1877226,11.3459739 C18.1015662,11.3584003 18.0150784,11.3708267 17.9078799,11.3897149 L17.7398749,11.4003188 C17.6069951,11.4137393 17.4762693,11.4110883 17.3490229,11.4011472 C17.2322146,11.4417401 16.703181,11.6500067 16.7928168,12.0559361 C16.8420254,12.278783 17.0105275,12.4653448 17.1697512,12.5980589 C17.3200279,12.6527351 17.479583,12.6989613 17.6490792,12.7314357 L17.9251112,12.7743482 L17.9652071,12.7741825 L18.0028177,12.7768335 C18.0931162,12.7794844 18.1859001,12.784455 18.2826604,12.7897569 C18.3873736,12.7874373 18.5164426,12.7783246 18.6554526,12.7632473 C18.7426032,12.7543003 18.8213038,12.7392229 18.9011642,12.7234828 C18.9374493,12.716524 18.9739001,12.7093995 19.0143273,12.702275 C19.3599472,12.6310303 19.6298488,12.5962363 19.8391095,12.5962363 C20.2341036,12.5962363 20.4503231,12.7118848 20.5855225,12.9950412 Z"/>
+  </g>
+</svg>                                <meta itemprop="url" content="https://psicologiaymente.com/img/logo.png">
+                                <meta itemprop="width" content="179">
+                                <meta itemprop="height" content="27">
+                            </a>
+
+                            <meta itemprop="name" content="Psicología y Mente">
+
+                                                            <p class="desc" itemprop="description">
+                                    Psicología para profesionales, estudiantes y curiosos. Artículos diarios sobre
+                                    salud mental, neurociencias, frases célebres y relaciones de pareja.
+                                </p>
+                                                    </div>
+                    </div>
+
+                    <div class="main_foot-cell main_foot-cell--body_center">
+                                            </div>
+
+                    <div class="main_foot-cell main_foot-cell--body_right">
+                        <div class="main_foot_nav-module">
+                            <h3 class="tit">Psicólogos nominados y premiados</h3>
+                            <a href="https://psicologiaymente.com/pym-awards/2020" class="a-award">
+                                <svg viewBox="0 0 32 32" class="logo" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M25.3333 1.33334H6.66667C5.2 1.33334 4.01333 2.53334 4.01333 4.00001L4 21.24C4 22.16 4.46667 22.9733 5.17333 23.4533L16 30.6667L26.8133 23.4533C27.52 22.9733 27.9867 22.16 27.9867 21.24L28 4.00001C28 2.53334 26.8 1.33334 25.3333 1.33334Z" fill="#6F59BF"/>
+                                    <path d="M16.8013 4.40005L16.8146 4.39866L16.8159 4.3427C16.8222 4.03903 17.0263 4.00025 17.1979 4L17.2617 4.00541C17.3972 4.01683 17.5374 4.02865 17.6806 4.06278C17.7297 4.07097 17.7788 4.08437 17.8277 4.0977L17.8326 4.09903L17.8428 4.10178C17.8703 4.10919 17.8971 4.11643 17.9189 4.12126C17.9547 4.13402 17.9908 4.14526 18.027 4.15613C18.0738 4.1704 18.1208 4.1848 18.1681 4.20388L18.2851 4.2491C18.3219 4.26767 18.3587 4.28383 18.4041 4.30266C18.4309 4.31074 18.5037 4.34965 18.557 4.37832C18.5964 4.39941 18.6318 4.41824 18.6457 4.42405C18.7926 4.50779 18.9476 4.60064 19.0869 4.7118C19.1254 4.73901 19.1598 4.76851 19.1943 4.798L19.1998 4.80274C19.2279 4.82725 19.2562 4.8515 19.2794 4.86868C19.3066 4.89672 19.3355 4.92338 19.3641 4.94978L19.3663 4.95181C19.3987 4.98169 19.4309 5.01144 19.462 5.04578C19.5718 5.15605 19.6613 5.2782 19.7477 5.39631L19.757 5.40881C19.9311 5.68974 19.7153 5.88983 19.4152 6.12225L19.4142 6.12308C19.3262 6.19132 19.2503 6.25019 19.2057 6.30781C19.0831 6.46672 18.9886 6.65203 18.917 6.87447C18.8286 7.1554 18.7824 7.45679 18.7757 7.7957C18.7738 7.91103 18.7738 8.02686 18.7738 8.14269C18.7738 8.25764 18.7738 8.37272 18.7718 8.48805L18.7716 8.53333C18.7698 8.8896 18.768 9.25805 18.721 9.6158C18.6942 9.82802 18.6545 9.99918 18.5961 10.1547C18.5067 10.3975 18.3669 10.4669 18.1351 10.582L18.1233 10.5878C18.0823 10.6082 18.0391 10.6297 17.9937 10.6538C17.8005 10.7552 17.4597 10.854 17.2229 10.8992C17.1923 10.9051 17.1628 10.9082 17.1355 10.9082C16.8217 10.9082 16.81 10.5074 16.81 10.5028C16.7894 8.63748 16.7476 4.8203 16.8013 4.40005Z" fill="#CFC8EA"/>
+                                    <path d="M13.2613 9.51599C13.2349 9.26499 13.2278 9.00731 13.2242 8.78916C13.2221 8.52174 13.2221 8.25446 13.2221 7.98565C13.2244 7.74969 13.2089 7.51853 13.176 7.29773C13.1383 7.05684 13.0793 6.84804 12.9957 6.65996C12.889 6.41629 12.7513 6.22833 12.5746 6.08534C12.534 6.05237 12.4829 6.02458 12.429 5.99528C12.315 5.93338 12.1974 5.86934 12.1641 5.75489C12.1384 5.66647 12.1654 5.54912 12.2402 5.41283L12.2522 5.39641C12.3388 5.27817 12.4282 5.15602 12.5403 5.04348C12.5692 5.01139 12.6012 4.98182 12.6337 4.95185L12.6364 4.94937C12.6647 4.92322 12.6933 4.8967 12.7137 4.87472C12.7438 4.85147 12.7721 4.82722 12.8003 4.80272L12.8039 4.79958C12.8389 4.76955 12.8739 4.7394 12.9161 4.70949C13.0506 4.602 13.2065 4.50941 13.3485 4.42692C13.3681 4.41833 13.4034 4.39951 13.4424 4.37854C13.4928 4.35151 13.5689 4.31071 13.6024 4.30035C13.6414 4.2838 13.678 4.26764 13.7094 4.25147L13.8327 4.20359C13.8776 4.1854 13.9229 4.17146 13.9682 4.15755L13.973 4.1561C14.0091 4.14524 14.0454 4.13412 14.0745 4.12313C14.1055 4.1158 14.1365 4.10734 14.1675 4.09888L14.1777 4.09614C14.2249 4.08338 14.2723 4.07059 14.3232 4.06187C14.4657 4.02841 14.6064 4.01653 14.7423 4.00505L14.7967 4.00022C15.0623 4.00022 15.1817 4.10557 15.1842 4.34191L15.1848 4.3985L15.1987 4.40002C15.2511 4.81035 15.2133 8.46149 15.1924 10.4726L15.1921 10.4995L15.1918 10.5129C15.1897 10.6677 15.1549 10.9277 14.9447 10.9277C14.9245 10.9277 14.903 10.9254 14.8801 10.9211C14.6459 10.8749 14.3119 10.7907 14.1316 10.7146L14.0536 10.6824C13.7078 10.5396 13.4989 10.4533 13.3846 10.1184C13.3254 9.94496 13.2861 9.75371 13.2613 9.51599Z" fill="#CFC8EA"/>
+                                    <path d="M14.5869 11.8075L14.5379 11.7975C14.2661 11.742 13.9848 11.6847 13.713 11.5958C13.4534 11.513 13.2023 11.4048 12.9672 11.2739C12.5768 11.0573 12.287 10.7282 12.1061 10.296C12.0029 10.051 11.9268 9.7893 11.8729 9.49637C11.8104 9.15595 11.7811 8.80137 11.7831 8.41257C11.7844 8.09831 11.784 7.7845 11.7837 7.47072L11.7831 6.9051C11.7831 6.77007 11.7652 6.65904 11.7283 6.56594C11.664 6.39971 11.5108 6.37217 11.2998 6.46703C11.1314 6.53954 10.9732 6.63996 10.8412 6.75807C10.7983 6.79874 10.7548 6.84169 10.7128 6.88641C10.3733 7.19955 9.68554 7.89833 9.18222 8.83889C8.97195 9.23174 8.84256 9.56193 8.76319 9.83275C8.69012 10.0044 8.63821 10.1813 8.6115 10.3601L8.59752 10.4464C8.5984 10.4633 8.5984 10.4885 8.59639 10.5157L8.5882 10.5915L8.58858 10.8031L8.59021 10.803L8.59777 10.8654C8.6008 10.888 8.60269 10.9101 8.60458 10.9325L8.60494 10.9366C8.60795 10.9715 8.6108 11.0046 8.61843 11.0354C8.66429 11.2782 8.74341 11.4932 8.85415 11.6776C8.96112 11.8697 9.10726 12.0467 9.28969 12.2052C9.46746 12.354 9.66173 12.4715 9.86633 12.5529C9.88699 12.5588 9.91446 12.5692 9.94142 12.5794L9.95061 12.5829C9.97457 12.5919 9.99772 12.6007 10.0184 12.6059C10.0511 12.6137 10.0817 12.6234 10.1144 12.6338L10.1672 12.6501C10.2352 12.6592 10.3011 12.6688 10.3673 12.6801L10.3749 12.682L10.3825 12.6832L10.5094 12.6912C10.5263 12.6929 10.5427 12.6933 10.5591 12.6938C10.568 12.694 10.5769 12.6943 10.5858 12.6947C10.6886 12.7319 11.0672 12.8904 11.001 13.1911C10.9483 13.43 10.7166 13.6146 10.577 13.7065L10.3141 13.7408C10.2493 13.7426 10.1871 13.746 10.1236 13.7495L10.1145 13.75L10.0984 13.7507C10.0188 13.7488 9.92063 13.7419 9.81455 13.7305C9.74853 13.7236 9.68869 13.712 9.62784 13.7001L9.61434 13.6975C9.59127 13.693 9.56781 13.6885 9.54406 13.6843C9.24106 13.6257 9.03822 13.5995 8.8849 13.5995C8.60861 13.5995 8.47267 13.6778 8.3458 13.9101C8.2348 14.1117 8.1451 14.3456 8.07896 14.6049C8.01496 14.8482 7.98976 15.1129 8.00375 15.3923C8.02113 15.675 8.06623 15.894 8.1703 16.1994C8.26781 16.4601 8.40841 16.7033 8.58782 16.9207C8.75463 17.1282 8.96477 17.3138 9.21322 17.4723C9.44881 17.6196 9.70267 17.729 9.9675 17.7973C10.2132 17.8659 10.4683 17.8802 10.6391 17.8802C10.6742 17.8802 10.7086 17.8795 10.7417 17.8785C10.7563 17.8781 10.7704 17.878 10.7845 17.878C10.8077 17.8778 10.8307 17.8777 10.8552 17.876C10.9775 17.923 11.3159 18.0802 11.2529 18.366C11.1925 18.6405 10.8964 18.8424 10.7744 18.9155C10.6473 18.9413 10.5236 18.9546 10.3947 18.968L10.3612 18.9714C10.2617 18.9757 10.1659 18.9796 10.0663 18.9796C9.99841 18.9771 9.93087 18.9714 9.86286 18.9656L9.76894 18.9576C9.73795 18.9546 9.70998 18.9531 9.68378 18.9531C9.53436 18.9531 9.43533 18.9984 9.38078 19.0917C9.27167 19.2781 9.36755 19.605 9.42601 19.7102C9.51218 19.8736 9.62696 20.0306 9.74853 20.1967L9.76151 20.2146C9.89367 20.3786 10.0493 20.5499 10.1868 20.6821C10.2095 20.7089 10.2486 20.7438 10.2832 20.7745L10.4976 20.9618C10.5688 21.0196 10.6364 21.0741 10.7082 21.1232C10.8629 21.2425 11.0398 21.354 11.2674 21.4764C11.2993 21.4934 11.3315 21.5083 11.3638 21.5232L11.3918 21.5362C11.6174 21.6717 12.1307 21.9275 12.981 22.0711C14.1742 22.2727 14.3227 22.2419 14.3227 22.2419L14.323 22.2404C14.4734 22.2627 14.6367 22.2625 14.8908 22.2577C15.0296 22.256 15.0517 22.061 15.0526 22.0527L15.0535 22.008C15.0645 21.493 15.1681 16.6504 15.1866 12.1399C15.1866 12.0025 14.9848 11.8906 14.5869 11.8075Z" fill="#CFC8EA"/>
+                                    <path d="M23.6527 13.9072C23.7479 14.1056 23.8544 14.3437 23.9212 14.6053C23.985 14.8486 24.0102 15.1132 23.9963 15.3916C23.9787 15.6755 23.9336 15.8944 23.8302 16.1975C23.7305 16.4645 23.5899 16.7075 23.4114 16.9212C23.2454 17.1284 23.0351 17.3137 22.7872 17.472C22.5512 17.6195 22.2972 17.729 22.0314 17.7977C21.7868 17.8658 21.5317 17.8802 21.3609 17.8802C21.3257 17.8802 21.2914 17.8796 21.2581 17.8784C21.2432 17.878 21.2288 17.878 21.2145 17.878C21.1709 17.8781 21.1274 17.8781 21.0683 17.8653L20.9568 17.8475L20.8233 17.8253C20.7593 17.8466 20.3197 18.0055 20.3908 18.3279C20.4283 18.4985 20.5573 18.6411 20.6788 18.7423C20.7229 18.7633 20.7678 18.7829 20.8146 18.7994C20.8743 18.8275 20.9535 18.8475 21.0376 18.8688L21.0742 18.878C21.2567 18.9319 21.4263 18.9495 21.6058 18.9681L21.6427 18.9717C21.7377 18.9758 21.8327 18.9797 21.9349 18.9797H21.9362C22.0081 18.9768 22.0801 18.9706 22.1529 18.9643L22.2351 18.9573C22.4329 18.9285 22.5632 18.9674 22.6268 19.0761C22.7348 19.2607 22.6327 19.6044 22.573 19.7119C22.4859 19.8808 22.361 20.0493 22.2416 20.2104L22.2403 20.2123C22.1024 20.3834 21.9475 20.5547 21.8114 20.6858C21.7926 20.7072 21.76 20.7361 21.7278 20.7647L21.7214 20.7703L21.504 20.9605L21.4965 20.9665C21.4273 21.0224 21.3615 21.0756 21.2888 21.1253C21.1372 21.2423 20.9606 21.3538 20.7327 21.4763C20.7215 21.4823 20.7101 21.4879 20.6987 21.4934C20.6933 21.496 20.6879 21.4987 20.6826 21.5013C20.4651 21.6344 19.9478 21.8985 19.0784 22.0454C18.3943 22.161 18.0543 22.2 17.8882 22.2124C17.7498 22.2596 17.631 22.2744 17.4426 22.2744C17.3527 22.2744 17.2482 22.271 17.1207 22.2656C16.9668 22.2583 16.9486 22.0569 16.9477 22.0467L16.8134 12.139C16.8101 11.9544 17.0276 11.8742 17.2111 11.8394C17.2756 11.8264 17.3402 11.8141 17.4047 11.8019C17.4155 11.7999 17.4263 11.7978 17.4371 11.7958C17.6765 11.7505 17.9238 11.7038 18.1648 11.6319C18.5127 11.529 18.8119 11.4019 19.0798 11.2435C19.3854 11.0619 19.6219 10.8163 19.7826 10.5133C19.8668 10.3564 19.9389 10.1856 19.9967 10.0052C20.1346 9.56729 20.2068 9.0864 20.211 8.57608C20.2134 8.23055 20.2127 7.88432 20.212 7.53841L20.2119 7.49985C20.2118 7.46388 20.2117 7.4279 20.2116 7.39194C20.2113 7.24871 20.211 7.10557 20.211 6.9625C20.211 6.9049 20.214 6.84338 20.2204 6.7753L20.2222 6.75989C20.2327 6.66313 20.2435 6.56296 20.2968 6.49361C20.3328 6.4465 20.3938 6.42262 20.4785 6.42262C20.5713 6.42262 20.6684 6.45281 20.7018 6.46772C20.8452 6.52961 20.9809 6.61311 21.0999 6.70974L21.1012 6.7038C21.1012 6.7038 22.147 7.54444 22.8399 8.83919C23.1038 9.33208 23.2411 9.72746 23.3105 10.0288C23.3455 10.1382 23.3719 10.2491 23.3885 10.3609L23.4015 10.4361C23.4015 10.4624 23.4034 10.4867 23.4056 10.5145L23.4058 10.5163L23.4114 10.8029H23.4097L23.402 10.8658C23.3991 10.8877 23.3974 10.9098 23.3958 10.9318C23.3933 10.968 23.3906 11.0022 23.3809 11.0385C23.3357 11.2772 23.2571 11.4925 23.147 11.6789C23.0386 11.8706 22.8916 12.0475 22.7112 12.2045C22.5325 12.3541 22.3383 12.4714 22.139 12.551C22.1135 12.5586 22.0871 12.5687 22.061 12.5787L22.0556 12.5808C22.0302 12.5905 22.0053 12.6002 21.9822 12.6057C21.9534 12.6127 21.9273 12.6209 21.8996 12.6295L21.8938 12.6314C21.875 12.6374 21.8554 12.6437 21.8294 12.6499L21.8256 12.6505C21.7613 12.6598 21.6969 12.6691 21.6327 12.6801L21.6267 12.6816C21.6227 12.6821 21.6193 12.6828 21.6166 12.6833L21.4889 12.6914C21.3878 12.7016 21.2884 12.6996 21.1917 12.692C21.1028 12.7229 20.7006 12.8817 20.7687 13.1912C20.8061 13.3611 20.9343 13.5033 21.0553 13.6045C21.1696 13.6462 21.2909 13.6814 21.4198 13.7062L21.6297 13.7389L21.6602 13.7388L21.6888 13.7408C21.7575 13.7428 21.828 13.7466 21.9016 13.7507C21.9812 13.7489 22.0794 13.7419 22.1851 13.7304C22.2513 13.7236 22.3112 13.7121 22.3719 13.7001L22.3843 13.6977C22.4078 13.6932 22.4318 13.6886 22.458 13.684C22.7208 13.6296 22.926 13.6031 23.0851 13.6031C23.3855 13.6031 23.5499 13.6913 23.6527 13.9072Z" fill="#CFC8EA"/>
+                                </svg>
+                                <span class="lbl">
+                                    <span class="tit">PyM Awards 2020</span>
+                                </span>
+                                <span class="arrow">
+                                    <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" class="icon">
+                                        <path d="M3.8125 1.83125L4.73125 1L12.2125 8L4.73125 15L3.8125 14.1687L10.375 8L3.8125 1.83125Z" fill="#5640A6"/>
+                                    </svg>
+                                </span>
+                            </a>
+                        </div>
+
+                        <div class="main_foot_nav-module">
+  <h3 class="tit">Conócenos</h3>
+
+  <ul class="main_foot_nav-list">
+      <li><a href="https://psicologiaymente.com/equipo" rel="nofollow">Equipo</a></li>
+      <li><a href="https://psicologiaymente.com/autores" rel="nofollow">Redactores</a></li>
+      <li><a href="https://psicologiaymente.com/directorio/topicos" rel="nofollow">Tópicos</a></li>
+      <li><a href="https://psicologiaymente.com/colabora" rel="nofollow">Colabora</a></li>
+      <li><a href="https://psicologiaymente.com/publicidad" rel="nofollow">Anúnciate</a></li>
+
+      <li><a href="https://psicologiaymente.com/contacto" rel="nofollow">Contacta</a></li>
+  </ul>
+</div>
+
+                                                    <div class="main_foot_nav-module" v-cloak>
+                                <h3 class="tit">Síguenos</h3>
+
+                                <ul class="list list-follow">
+                                    <li>
+                                        <a itemprop="sameAs" href="https://www.facebook.com/psicologiaymente" rel="nofollow" class="buttonicon small secondary stroke">
+                                            <svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <path  d="M17.0444712,1.65144231 L17.0444712,4.98317308 L15.063101,4.98317308 C14.3395397,4.98317308 13.8515638,5.13461387 13.5991587,5.4375 C13.3467535,5.74038613 13.2205529,6.19470851 13.2205529,6.80048077 L13.2205529,9.18569712 L16.9182692,9.18569712 L16.4260817,12.921274 L13.2205529,12.921274 L13.2205529,22.5 L9.35877404,22.5 L9.35877404,12.921274 L6.140625,12.921274 L6.140625,9.18569712 L9.35877404,9.18569712 L9.35877404,6.43449519 C9.35877404,4.86958352 9.79626966,3.65595383 10.671274,2.79356971 C11.5462784,1.93118559 12.7115312,1.5 14.1670673,1.5 C15.4038523,1.5 16.3629774,1.55048026 17.0444712,1.65144231 L17.0444712,1.65144231 Z"/>
+</svg>                                        </a>
+                                    </li>
+                                    <li>
+                                        <a itemprop="sameAs" href="https://twitter.com/psicologiamente" rel="nofollow" class="buttonicon small secondary stroke">
+                                            <svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <path  d="M21.9296296,5.67349537 C21.3506144,6.52041319 20.6506214,7.24201091 19.8296296,7.83831019 C19.8382716,7.95929844 19.8425926,8.14077811 19.8425926,8.38275463 C19.8425926,9.50621704 19.6783967,10.6275021 19.35,11.7466435 C19.0216033,12.8657849 18.5225342,13.9395396 17.8527778,14.9679398 C17.1830213,15.99634 16.3858071,16.9058988 15.4611111,17.6966435 C14.5364151,18.4873882 13.4216115,19.1182461 12.1166667,19.5892361 C10.8117219,20.0602261 9.41605681,20.2957176 7.92962963,20.2957176 C5.58764261,20.2957176 3.44445417,19.6691806 1.5,18.416088 C1.80247065,18.450656 2.13950431,18.4679398 2.51111111,18.4679398 C4.45556528,18.4679398 6.188264,17.8716495 7.70925926,16.6790509 C6.80184731,16.6617669 5.98950976,16.383066 5.27222222,15.8429398 C4.55493469,15.3028137 4.06234702,14.613623 3.79444444,13.7753472 C4.07963106,13.8185573 4.34320867,13.840162 4.58518519,13.840162 C4.95679198,13.840162 5.32407226,13.7926316 5.68703704,13.6975694 C4.71913096,13.498803 3.91759577,13.0170177 3.28240741,12.2521991 C2.64721905,11.4873804 2.32962963,10.5994264 2.32962963,9.58831019 L2.32962963,9.53645833 C2.91728689,9.86485504 3.54814478,10.0420138 4.22222222,10.0679398 C3.651849,9.687691 3.19814983,9.19078239 2.86111111,8.57719907 C2.52407239,7.96361576 2.35555556,7.29819031 2.35555556,6.58090278 C2.35555556,5.82040515 2.54567711,5.1160912 2.92592593,4.46793981 C3.97161017,5.75560057 5.24412831,6.78614582 6.74351852,7.55960648 C8.24290873,8.33306714 9.84813959,8.76300111 11.5592593,8.8494213 C11.4901231,8.52102459 11.4555556,8.2012747 11.4555556,7.89016204 C11.4555556,6.73213156 11.8638848,5.74479575 12.6805556,4.928125 C13.4972263,4.11145425 14.4845621,3.703125 15.6425926,3.703125 C16.8524752,3.703125 17.8722181,4.14386133 18.7018519,5.02534722 C19.6438319,4.84386483 20.5296255,4.50683117 21.3592593,4.01423611 C21.0395046,5.00806824 20.4259305,5.77719635 19.5185185,6.32164352 C20.3222262,6.23522333 21.1259219,6.01917611 21.9296296,5.67349537 L21.9296296,5.67349537 Z"/>
+</svg>                                        </a>
+                                    </li>
+                                    <li>
+                                        <a itemprop="sameAs" href="https://www.linkedin.com/company/psicolog%C3%ADa-y-mente" rel="nofollow" class="buttonicon small secondary stroke">
+                                            <svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <path  d="M6.27148437,8.49023437 L6.27148437,22.0390625 L1.75976563,22.0390625 L1.75976563,8.49023437 L6.27148437,8.49023437 Z M6.55859375,4.30664063 C6.56770838,4.97200854 6.33756745,5.52799256 5.86816406,5.97460937 C5.39876067,6.42122619 4.78125383,6.64453125 4.015625,6.64453125 L3.98828125,6.64453125 C3.24088168,6.64453125 2.6393252,6.42122619 2.18359375,5.97460937 C1.7278623,5.52799256 1.5,4.97200854 1.5,4.30664063 C1.5,3.63215809 1.73469817,3.07389544 2.20410156,2.63183594 C2.67350495,2.18977644 3.28645455,1.96875 4.04296875,1.96875 C4.79948295,1.96875 5.40559668,2.18977644 5.86132812,2.63183594 C6.31705957,3.07389544 6.54947912,3.63215809 6.55859375,4.30664063 L6.55859375,4.30664063 Z M22.5,14.2734375 L22.5,22.0390625 L18.0019531,22.0390625 L18.0019531,14.7929687 C18.0019531,13.8359327 17.8173847,13.0862657 17.4482422,12.5439453 C17.0790997,12.0016249 16.5026081,11.7304687 15.71875,11.7304687 C15.1445284,11.7304687 14.6637389,11.8876937 14.2763672,12.2021484 C13.8889955,12.5166031 13.5996103,12.9062477 13.4082031,13.3710937 C13.3079422,13.6445326 13.2578125,14.0136696 13.2578125,14.4785156 L13.2578125,22.0390625 L8.75976562,22.0390625 C8.77799488,18.4023256 8.78710938,15.4537873 8.78710938,13.1933594 C8.78710938,10.9329314 8.78255213,9.58398656 8.7734375,9.14648437 L8.75976562,8.49023437 L13.2578125,8.49023437 L13.2578125,10.4589844 L13.2304687,10.4589844 C13.4127613,10.1673162 13.5996084,9.91211047 13.7910156,9.69335938 C13.9824228,9.47460828 14.2399072,9.23763148 14.5634766,8.98242187 C14.8870459,8.72721227 15.2835263,8.52897206 15.7529297,8.38769531 C16.2223331,8.24641856 16.7441378,8.17578125 17.3183594,8.17578125 C18.8769609,8.17578125 20.1302036,8.69302868 21.078125,9.72753906 C22.0260464,10.7620494 22.5,12.2773338 22.5,14.2734375 L22.5,14.2734375 Z"/>
+</svg>                                        </a>
+                                    </li>
+                                    <li>
+                                        <a itemprop="sameAs" href="http://instagram.com/psicologiaymente" rel="nofollow" class="buttonicon small secondary stroke">
+                                            <svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <path  d="M12.0000208,1.5 C9.14837121,1.5 8.79080007,1.51208715 7.67086343,1.5631866 C6.55326085,1.61416102 5.78997839,1.79167535 5.12210102,2.05125724 C4.43163319,2.31955022 3.84607346,2.67858015 3.26230597,3.26230597 C2.67858015,3.84607346 2.31955022,4.43163319 2.05125724,5.12210102 C1.79167535,5.78997839 1.61416102,6.55326085 1.5631866,7.67086343 C1.51208715,8.79080007 1.5,9.14837121 1.5,12.0000208 C1.5,14.8516288 1.51208715,15.2091999 1.5631866,16.3291366 C1.61416102,17.4467391 1.79167535,18.2100216 2.05125724,18.877899 C2.31955022,19.5683668 2.67858015,20.1539265 3.26230597,20.737694 C3.84607346,21.3214199 4.43163319,21.6804498 5.12210102,21.9487844 C5.78997839,22.2083247 6.55326085,22.385839 7.67086343,22.4368134 C8.79080007,22.4879129 9.14837121,22.5 12.0000208,22.5 C14.8516288,22.5 15.2091999,22.4879129 16.3291366,22.4368134 C17.4467391,22.385839 18.2100216,22.2083247 18.877899,21.9487844 C19.5683668,21.6804498 20.1539265,21.3214199 20.737694,20.737694 C21.3214199,20.1539265 21.6804498,19.5683668 21.9487844,18.877899 C22.2083247,18.2100216 22.385839,17.4467391 22.4368134,16.3291366 C22.4879129,15.2091999 22.5,14.8516288 22.5,12.0000208 C22.5,9.14837121 22.4879129,8.79080007 22.4368134,7.67086343 C22.385839,6.55326085 22.2083247,5.78997839 21.9487844,5.12210102 C21.6804498,4.43163319 21.3214199,3.84607346 20.737694,3.26230597 C20.1539265,2.67858015 19.5683668,2.31955022 18.877899,2.05125724 C18.2100216,1.79167535 17.4467391,1.61416102 16.3291366,1.5631866 C15.2091999,1.51208715 14.8516288,1.5 12.0000208,1.5 Z M12.0000208,3.39188851 C14.8036136,3.39188851 15.1357184,3.40260023 16.242901,3.45311616 C17.2666407,3.49979756 17.8226077,3.67085152 18.1925995,3.81464688 C18.6827124,4.00512364 19.0324894,4.23265375 19.399897,4.60010301 C19.7673462,4.96751058 19.9948764,5.3172876 20.1853531,5.80740055 C20.3291485,6.17739227 20.5002024,6.73335933 20.5468838,7.75709897 C20.5973998,8.86428159 20.6081115,9.19638636 20.6081115,12.0000208 C20.6081115,14.8036136 20.5973998,15.1357184 20.5468838,16.242901 C20.5002024,17.2666407 20.3291485,17.8226077 20.1853531,18.1925995 C19.9948764,18.6827124 19.7673462,19.0324894 19.399897,19.399897 C19.0324894,19.7673462 18.6827124,19.9948764 18.1925995,20.1853531 C17.8226077,20.3291485 17.2666407,20.5002024 16.242901,20.5468838 C15.1358851,20.5973998 14.803822,20.6081115 12.0000208,20.6081115 C9.19617796,20.6081115 8.86415655,20.5973998 7.75709897,20.5468838 C6.73335933,20.5002024 6.17739227,20.3291485 5.80740055,20.1853531 C5.3172876,19.9948764 4.96751058,19.7673462 4.60010301,19.399897 C4.23269543,19.0324894 4.00512364,18.6827124 3.81464688,18.1925995 C3.67085152,17.8226077 3.49979756,17.2666407 3.45311616,16.242901 C3.40260023,15.1357184 3.39188851,14.8036136 3.39188851,12.0000208 C3.39188851,9.19638636 3.40260023,8.86428159 3.45311616,7.75709897 C3.49979756,6.73335933 3.67085152,6.17739227 3.81464688,5.80740055 C4.00512364,5.3172876 4.23265375,4.96751058 4.60010301,4.60010301 C4.96751058,4.23265375 5.3172876,4.00512364 5.80740055,3.81464688 C6.17739227,3.67085152 6.73335933,3.49979756 7.75709897,3.45311616 C8.86428159,3.40260023 9.19638636,3.39188851 12.0000208,3.39188851 Z M12.0000208,15.5 C10.0669943,15.5 8.5,13.9330057 8.5,12.0000208 C8.5,10.0669943 10.0669943,8.5 12.0000208,8.5 C13.9330057,8.5 15.5,10.0669943 15.5,12.0000208 C15.5,13.9330057 13.9330057,15.5 12.0000208,15.5 Z M12.0000208,6.60811149 C14.9778769,6.60811149 17.3918885,9.02212305 17.3918885,12.0000208 C17.3918885,14.9778769 14.9778769,17.3918885 12.0000208,17.3918885 C9.02212305,17.3918885 6.60811149,14.9778769 6.60811149,12.0000208 C6.60811149,9.02212305 9.02212305,6.60811149 12.0000208,6.60811149 Z M18.8649366,6.39508595 C18.8649366,7.09097215 18.3008003,7.65506678 17.6049141,7.65506678 C16.9090695,7.65506678 16.3449332,7.09097215 16.3449332,6.39508595 C16.3449332,5.69919975 16.9090695,5.13506344 17.6049141,5.13506344 C18.3008003,5.13506344 18.8649366,5.69919975 18.8649366,6.39508595 Z"/>
+</svg>                                        </a>
+                                    </li>
+                                    <li>
+                                        <a itemprop="sameAs" href="https://www.youtube.com/channel/UCcBDiOaLfansmWXXUmirexQ" rel="nofollow" class="buttonicon small secondary stroke">
+                                            <svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <path  d="M22.3769531,7.61132812 C22.4589848,9.08789801 22.5,10.550774 22.5,12 C22.5,13.449226 22.4589848,14.912102 22.3769531,16.3886719 C22.3769531,17.318364 22.0830108,18.104489 21.4951172,18.7470703 C20.9072236,19.3896517 20.1894574,19.7109375 19.3417969,19.7109375 C17.2363176,19.820313 14.7890764,19.875 12,19.875 C9.21092355,19.875 6.7636824,19.820313 4.65820312,19.7109375 C3.81054264,19.7109375 3.09277638,19.3896517 2.50488281,18.7470703 C1.91698925,18.104489 1.62304688,17.318364 1.62304688,16.3886719 C1.54101521,14.912102 1.5,13.449226 1.5,12 C1.5,11.042964 1.55468695,9.58008797 1.6640625,7.61132812 C1.6640625,6.68163598 1.951169,5.89551103 2.52539062,5.25292969 C3.09961225,4.61034835 3.81054264,4.2890625 4.65820312,4.2890625 C6.65430686,4.17968695 8.97850236,4.125 11.6308594,4.125 L12,4.125 L12.3691406,4.125 C15.0214976,4.125 17.3456931,4.17968695 19.3417969,4.2890625 C20.1894574,4.2890625 20.9072236,4.61034835 21.4951172,5.25292969 C22.0830108,5.89551103 22.3769531,6.68163598 22.3769531,7.61132812 L22.3769531,7.61132812 Z M9.99023438,16.0195312 L15.9375,12 L9.99023438,7.93945312 L9.99023438,16.0195312 Z"/>
+</svg>                                        </a>
+                                    </li>
+                                    <li>
+                                        <newsletter-button>
+                                            <svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <path  d="M22.5,9.0703125 L22.5,18.375 C22.5,18.8906276 22.3164081,19.3320294 21.9492188,19.6992187 C21.5820294,20.0664081 21.1406276,20.25 20.625,20.25 L3.375,20.25 C2.85937242,20.25 2.41797059,20.0664081 2.05078125,19.6992187 C1.68359191,19.3320294 1.5,18.8906276 1.5,18.375 L1.5,9.0703125 C1.84375172,9.45312691 2.23827902,9.79296727 2.68359375,10.0898437 C5.51173289,12.0117284 7.45311973,13.3593711 8.5078125,14.1328125 C8.95312723,14.4609391 9.31445174,14.716796 9.59179688,14.9003906 C9.86914201,15.0839853 10.2382789,15.2714834 10.6992188,15.4628906 C11.1601586,15.6542978 11.5898418,15.75 11.9882812,15.75 L12,15.75 L12.0117188,15.75 C12.4101582,15.75 12.8398414,15.6542978 13.3007812,15.4628906 C13.7617211,15.2714834 14.130858,15.0839853 14.4082031,14.9003906 C14.6855483,14.716796 15.0468728,14.4609391 15.4921875,14.1328125 C16.8203191,13.1718702 18.7656122,11.8242274 21.328125,10.0898437 C21.7734397,9.78515473 22.1640608,9.44531437 22.5,9.0703125 L22.5,9.0703125 Z M22.5,5.625 C22.5,6.24219059 22.3085957,6.83202844 21.9257813,7.39453125 C21.5429668,7.95703406 21.0664091,8.43749801 20.4960937,8.8359375 C17.5585791,10.8750102 15.7304723,12.1445287 15.0117188,12.6445312 C14.9335934,12.699219 14.7675794,12.8183585 14.5136719,13.0019531 C14.2597644,13.1855478 14.048829,13.3339838 13.8808594,13.4472656 C13.7128898,13.5605474 13.5097668,13.6874993 13.2714844,13.828125 C13.0332019,13.9687507 12.8085948,14.0742184 12.5976562,14.1445312 C12.3867177,14.2148441 12.1914071,14.25 12.0117188,14.25 L12,14.25 L11.9882812,14.25 C11.8085929,14.25 11.6132823,14.2148441 11.4023438,14.1445312 C11.1914052,14.0742184 10.9667981,13.9687507 10.7285156,13.828125 C10.4902332,13.6874993 10.2871102,13.5605474 10.1191406,13.4472656 C9.95117104,13.3339838 9.74023564,13.1855478 9.48632812,13.0019531 C9.23242061,12.8183585 9.06640664,12.699219 8.98828125,12.6445312 C8.2773402,12.1445287 7.25391293,11.4316453 5.91796875,10.5058594 C4.58202457,9.5800735 3.78125133,9.02343844 3.515625,8.8359375 C3.03124758,8.50781086 2.5742209,8.0566435 2.14453125,7.48242188 C1.7148416,6.90820025 1.5,6.37500246 1.5,5.8828125 C1.5,5.27343445 1.66210775,4.76562703 1.98632813,4.359375 C2.3105485,3.95312297 2.77343449,3.75 3.375,3.75 L20.625,3.75 C21.132815,3.75 21.5722638,3.93359191 21.9433594,4.30078125 C22.314455,4.66797059 22.5,5.10937242 22.5,5.625 L22.5,5.625 Z"/>
+</svg>                                        </newsletter-button>
+                                    </li>
+                                </ul>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+
+            <div class="main_foot-foot">
+                <div class="main_foot-wrap">
+                    <div class="main_foot-cell main_foot-cell--foot_right">
+                                                    <div class="main_foot_signup-col">
+                                <div class="main_foot_signup-module">
+                                    <a href="https://psicologiaymente.com/login" rel="nofollow" class="button small primary stroke">
+                                        <span class="label">Accede</span>
+                                    </a>
+                                    <a href="https://psicologiaymente.com/register" rel="nofollow" class="button small secondary fill">
+                                        <span class="label">Regístrate</span>
+                                    </a>
+                                </div>
+                            </div>
+                                            </div>
+                    <div class="main_foot-cell main_foot-cell--foot_left">
+                        <div class="main_foot_copy-module">
+  <p class="copy">
+      © Copyright 2021 Psicología y Mente. Todos los derechos reservados.
+      <a href="https://psicologiaymente.com/aviso-legal" rel="nofollow">Aviso legal</a>,
+
+            <a href="https://psicologiaymente.com/privacidad" rel="nofollow">privacidad</a> y
+      <a href="https://psicologiaymente.com/cookies" rel="nofollow">cookies</a>.
+  </p>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+    <newsletter-modal></newsletter-modal>
+
+
+    <notifications class="snackbar" position="bottom center"></notifications>
+
+</div>
+
+
+    <script async type='text/javascript' src='//s.clickiocdn.com/t/common_258.js'></script>
+    <script class='__lxGc__' type='text/javascript'>
+        ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_213878']=__lxGc__['s']['_213878']||{'b':{}})['b']['_650353']={'i':__lxGc__.b++};
+    </script>
+
+    <script>
+      var adManagerRefreshCallbackSemaphore = false;
+
+      var adManagerRefreshCallback = function () {
+        if (!adManagerRefreshCallbackSemaphore && __lxG__consent__.getState() !== -1) {
+          adManagerRefreshCallbackSemaphore = true;
+
+          googletag.cmd.push(function () {
+            window.googletag.pubads().refresh();
+          });
+        }
+      };
+
+      if (__lxG__consent__.getState && __lxG__consent__.getState() !== -1) {
+        adManagerRefreshCallback();
+      } else {
+        __lxG__consent__.consentCallback = function () {
+          adManagerRefreshCallback();
+        };
+
+        setTimeout(function () {
+          console.log('AdManager Pause: timeout');
+          adManagerRefreshCallback();
+        }, 1500);
+      }
+    </script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB3Sz_9qRxwhTGeDV48rIqi2bEiemxoJVA&language=es&libraries=places&sessiontoken=AxrlBDuha7cFo3sosTs54jNCjg4ViUeqbpDlubBs"></script>
+<script src="/js/app.js?id=b29e0e81070c9331153d"></script>
+
+
+</body>
+</html>
