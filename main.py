@@ -1,7 +1,9 @@
+import sys
+
 def main():
     start = '<h3>'
     end = '</h3>'
-    source_file = open('source.txt', mode='r', encoding='utf-8')
+    source_file = open('source.txt', mode='r')
     txt = source_file.read()
 
     l = []
